@@ -1,0 +1,3 @@
+The U.S. Geological Survey's Nonindigenous Aquatic Species Database: over thirty years of tracking introduced aquatic species in the United States (and counting)
+The U.S. Geological Survey's Nonindigenous Aquatic Species (NAS) Database has tracked introductions of freshwater aquatic organisms in the United States for the past four decades. A website provides access to occurrence reports, distribution maps, and fact sheets for more than 1,000 species. The site also includes an on-line reporting system and an alert system for new occurrences. We provide an historical overview of the database, a description of its current capabilities and functionality, and a basic characterization of the data contained within the database.
+10.3391/MBI.2015.6.2.06

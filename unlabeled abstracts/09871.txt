@@ -1,0 +1,3 @@
+Long range dispersal and spatial pattern formation in biological invasions.
+In this paper we explore the consequences of long distance dispersal in biological invasion processes through simulations using a recently developed cellular automaton model. We show that long distance dispersal generate characteristic spatial patterns with several stationary scale-invariant properties. In particular, the patterns display a main patch around the focus of spread, with a fractal border structure whose fractal dimension contains information about the main statistical properties of the dispersal mechanism. Our results are in agreement with field data of spread of invaders with long distance dispersal mechanisms.
+10.1016/J.MBS.2006.06.005

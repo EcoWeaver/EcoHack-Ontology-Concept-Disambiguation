@@ -1,0 +1,3 @@
+Correction of Two Papers: "Functional Cross-Talk between the a1- and b1-Adrenergic Receptors Modulates the Rapidly Activating Delayed Rectifier Potassium Current in Guinea Pig Ventricular Myocytes" and "Population Structure of the Greenhouse Whitefly, Trialeurodes vaporariorum (Westwood), an Invasive Species from the Americas, 60 Years after Invading China" in Int. J. Mol. Sci. Volume 15, Issue 8, 2014
+Two papers [1,2] were recently published with incorrect page range, DOI numbers and publishing date in the PDF full text versions. [...]
+10.3390/IJMS150915766

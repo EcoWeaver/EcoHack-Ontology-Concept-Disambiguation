@@ -1,0 +1,3 @@
+Complete mitogenome of the invasive land flatworm Parakontikia ventrolineata, the second Geoplanidae (Platyhelminthes) to display an unusually long cox2 gene
+We sequenced the complete mitogenome of the invasive flatworm Parakontikia ventrolineata (Platyhelminthes, order Tricladida, family Geoplanidae). The genome is 17,210 bp long, and displays common unusual characteristics shared with Platydemus manokwari, such as its colinearity, an overlap between ND4L and ND4 genes and an unusually long cox2 genes. Both Parakontikia and Platydemus are members of the subfamily Rhynchodeminae and their close relationships are supported by the maximum likelihood phylogeny inferred from the protein-coding genes.
+10.1080/23802359.2020.1765709

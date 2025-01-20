@@ -1,0 +1,3 @@
+Seed density is more effective than multi-trait limiting similarity in controlling grassland resistance against plant invasions in mesocosms
+Disturbed areas offer great opportunities for restoring native biodiversity, but they are also prone to invasion by alien plants. Following the limiting similarity hypothesis, we address the question whether or not similarity of plant functional traits helps developing seed mixtures of native communities with higher resistance to invasive species at an early stage of restoration.
+10.1111/AVSC.12373

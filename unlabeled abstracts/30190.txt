@@ -1,0 +1,3 @@
+Corrigendum: Augmenting Pentose Utilization and Ethanol Production of Native Saccharomyces Cerevisiae LN Using Medium Engineering and Response Surface Methodology
+[This corrects the article DOI: 10.3389/fbioe.2018.00132.].
+10.3389/FBIOE.2018.00168

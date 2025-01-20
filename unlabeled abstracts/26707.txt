@@ -1,0 +1,3 @@
+Ten polymorphic microsatellite markers in the invasive round goby (Neogobius melanostomus) and cross-species amplification
+Ten tetranucleotide, dinucleotide and compound microsatellite loci were isolated and characterized for the round goby, Neogobius melanostomus. Analysis of 64 gobies from one nonindigenous population in Lake Erie, Ontario, Canada, indicated that allele number varied from three to 12 per locus, while observed heterozygosity ranged between 0.33 and 0.86. Eight of these primers showed some amplification in other species in four genera. These newly developed microsatellite markers are a powerful tool that will provide insights into population structure and dispersal of the round goby in their novel environment.
+10.1111/J.1471-8286.2007.01833.X

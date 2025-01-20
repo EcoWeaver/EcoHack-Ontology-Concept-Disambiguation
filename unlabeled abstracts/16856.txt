@@ -1,0 +1,3 @@
+A general nonlinear model for the interaction of a size-structured population and its environment: Well-posedness and approximation
+We present a general model for the interaction of a size-structured population with its environment. The vital rates of the individuals are assumed to depend on a number of variables including the total population and the environment. We develop a finite difference approximation for this general model and prove the convergence of the method to the unique weak solution of the nonlinear system of partial dierential equations coupled with ordinary differential equations. Potential applications are presented in various fields ranging from blood cell population dynamics to the study of invasive species.
+10.1090/QAM/1439

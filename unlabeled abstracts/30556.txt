@@ -1,0 +1,3 @@
+Predicting spatial extent of invasive earthworms on an oceanic island
+Invasions of non-native earthworms into previously earthworm-free regions are a major conservation concern because they alter ecosystems and threaten biological diversity. Little information is available, however, about effects of earthworm invasions outside of temperate and boreal forests, particularly about invasions of islands. For San Clemente Island (SCI), California (USA) - an oceanic island with numerous endemic and endangered plant and vertebrate species - we assessed the spatial extent and drivers of earthworm invasion and examined relationships between earthworms and plant and soil microbial communities.
+10.1111/DDI.12472

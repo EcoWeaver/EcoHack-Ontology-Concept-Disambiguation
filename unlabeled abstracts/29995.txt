@@ -1,0 +1,3 @@
+EASIN-Lit: a geo-database of published alien species records
+EASIN-Lit is an initiative of the Joint Research Centre of the European Commission, aiming to facilitate access to spatial data published in the literature through the EASIN (European Alien Species Information Network) portal. Currently, in formation from 227 publications has been included, covering geo-referenced records for 236 species (1655 single records) and country-level occurrences for 3105 species. Systematic and harmonized access to such kind of data, otherwise dispersed in scientific libraries and archives, can be crucial for alien species distribution modeling and the implementation of early warning systems.
+10.3391/MBI.2013.4.3.08

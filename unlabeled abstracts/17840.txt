@@ -1,0 +1,3 @@
+3D modelling of dreissenid mussel impacts on phytoplankton in a large lake supports the nearshore shunt hypothesis and the importance of wind-driven hydrodynamics
+A three-dimensional hydrodynamic model (ELCOM) coupled with a biological model (CAEDYM) was calibrated with field data from Lake Simcoe (2008) and used to examine the expected impact of dreissenid mussels on the distribution of phytoplankton and nutrients, mussel energetic, and the interactions with hydrodynamic conditions. In accordance with the near-shore shunt hypothesis and the actual distribution of mussels, the model predicted a considerable impact of mussels on phytoplankton in nearshore areas (
+10.1007/S00027-014-0369-0

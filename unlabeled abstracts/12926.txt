@@ -1,0 +1,3 @@
+Spreading and vanishing in the diffusive prey-predator model with a free boundary
+This paper deals with the diffusive Lotka-Volterra type prey-predator model with a free boundary over a one dimensional habitat. This problem may be used to describe the interaction between indigenous species and invasive species and the spreading of such two species, with the free boundary representing the expanding front. Our main purpose is to study the spreading and vanishing phenomena and long time behaviors of prey and predator.
+10.1016/J.CNSNS.2014.11.016

@@ -1,0 +1,3 @@
+High-throughput Illumina sequencing and microsatellite design in Watersipora (Bryozoa), a complex of invasive species
+The bryozoan genus Watersipora includes rapidly invading species that are becoming common globally. We used paired-end Illumina sequencing to identify thousands of potentially amplifiable microsatellite loci, enabling researchers to track patterns of the invasive spread, and to facilitate ecological and evolutionary question setting. We describe variability of nine loci within recently introduced populations of two Watersipora species in California.
+10.1007/S12686-014-0286-5

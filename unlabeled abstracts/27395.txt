@@ -1,0 +1,3 @@
+Spatial dynamics of an invasive bird species assessed using robust design occupancy analysis: the case of the Eurasian collared dove (Streptopelia decaocto) in France
+Aim The study of the spatial dynamics of invasive species is a key issue in invasion ecology. While mathematical models are useful for predicting the extent of population expansions, they are not suitable for measuring and characterizing spatial patterns of invasion unless the probability of detection is homogeneous across the distribution range. Here, we apply recently developed statistical approaches incorporating detection uncertainty to characterize the spatial dynamics of an invasive bird species, the Eurasian collared dove (Streptopelia decaocto).
+10.1111/J.1365-2699.2006.01673.X

@@ -1,0 +1,3 @@
+Stochasticity, invasions, and branching random walks.
+We link deterministic integrodifference equations to stochastic, individual-based simulations by means of branching random walks. Using standard methods, we determine speeds of invasion for both average densities and furthest-forward individuals. For density-independent branching random walks, demographic stochasticity can produce extinction. Demographic stochasticity does not, however, reduce the overall asymptotic speed of invasion or preclude continually accelerating invasions.
+10.1016/J.TPB.2004.05.005

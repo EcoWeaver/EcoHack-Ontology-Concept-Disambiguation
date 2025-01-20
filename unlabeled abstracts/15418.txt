@@ -1,0 +1,3 @@
+Interactive effects of elevated CO 2 and nitrogen deposition accelerate litter decomposition cycles of invasive tree ( Triadica sebifera )
+Litter decomposition is an important component of forest nutrient recycling potentially impacted by elevated CO2, nitrogen (N) deposition, and biological invasions. Each can affect decomposition indirectly via changes in litter quantity, litter quality, and soils, which may increase or offset direct effects of elevated CO2 on decomposition. To date, no study has examined how elevated CO2 and N deposition interact to determine exotic plant litter cycling or the importance of variation among native and invasive populations of exotic plants for these effects.
+10.1016/J.FORECO.2016.11.045

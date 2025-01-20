@@ -1,0 +1,3 @@
+Correction: Development of molecular markers for invasive alien plants in Korea: a case study of a toxic weed, Cenchrus longispinus L., based on next generation sequencing data
+[This corrects the article DOI: 10.7717/peerj.7965.].
+10.7717/PEERJ.7965/CORRECTION-1

@@ -1,0 +1,3 @@
+A multi-objective optimization approach for invasive species control
+In this paper, we formulate and analyse a long-term multi-objective dynamic model for controlling invasive species. This optimization framework is then applied to the case of buffelgrass control in the Arizona desert. The proposed model simultaneously optimizes three objectives corresponding to three different valued and threatened resources including saguaros (a native cactus species), buildings and vegetation. The model is used to decide the optimal allocation of labour to these resources to control the population of the species in a multi-period planning horizon. The computational method to solve this problem is based on multi-objective integer programming.
+10.1057/JORS.2013.104

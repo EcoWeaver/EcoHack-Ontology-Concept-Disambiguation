@@ -1,0 +1,3 @@
+Combining trade data and niche modelling improves predictions of the origin and distribution of non-native European populations of a globally invasive species
+Although propagule pressure and environmental constraints are among the most important factors determining invasion success, studies considering both factors simultaneously are scarce. Moreover, while recent evidence suggests that the environmental requirements of individuals from different geographical ranges may be different, the role of propagule origin in invasions has been largely overlooked. Our aim was to disentangle the relative role of niche requirements, propagule origin and propagule pressure on the distribution of an invasive bird species.
+10.1111/JBI.12694

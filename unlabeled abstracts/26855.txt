@@ -1,0 +1,3 @@
+Di- and tri-nucleotide repeat microsatellites for the mealy plum aphid, Hyalopterus pruni
+Hyalopterus pruni is an invasive aphid pest in California. To study the population biology of this pest both in California and its native Mediterranean region, we have developed 11 di- and tri-nucleotide repeat microsatellite markers. Each locus amplified in individuals representing the full range of geographical regions and host plants where Hyalopterus is found. Polymorphism was high, ranging from six to 22 alleles per locus in the individuals screened. These loci represent the first microsatellites developed for Hyalopterus and they should be of great value in studying the invasion biology and population structure of this insect pest.
+10.1111/J.1471-8286.2005.00969.X

@@ -1,0 +1,3 @@
+Persistence and management of spatially distributed populations
+The management of populations that are distributed in space is an important problem, both for ensuring the persistence of threatened populations and for the eradication or prevention of spread of invasive species. I provide an overview of conditions for persistence which underlie management in both scenarios. The idea that persistence essentially depends on two aspects, local dynamics and connectivity, provides a way to organize management approaches and leads to rules of thumb for management. This can guide management or suggest what additional information would be needed. Examples from a variety of systems and taxa illustrate the results.
+10.1007/S10144-013-0416-Z

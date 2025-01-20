@@ -1,0 +1,3 @@
+The effect of habitat on the range expansion of a native and an introduced bird species
+Aim Range expansion across a heterogeneous landscape may depend on the habitat selected and used by the expanding species. If habitat selection influences range expansion then localities colonized by a species should contain a greater proportion of favoured habitat (and less non-habitat) than other nearby localities not colonized. White-winged doves (Zenaida asiatica) and Eurasian collared doves (Streptopelia decaocto) are two bird species that provide an excellent opportunity to test this hypothesis, because the geographic ranges of both species have been expanding in North America for more than two decades.
+10.1111/J.1365-2699.2010.02397.X

@@ -1,0 +1,3 @@
+Neutral metacommunity clustering and SAR: River basin vs. 2-D landscape biodiversity patterns
+Graphical abstract Figure optionsView in workspace Highlights > A power-law distribution for the cluster-size of fishes and trees in the MMRS is observed. > A neutral metacommunity model is capable to reproduce the cluster-size distribution. > The species-area is univocally related to the cluster-size distribution. > The ecological ratio among dispersal length and landscape diameter is defined.
+10.1016/J.ECOLMODEL.2011.03.015

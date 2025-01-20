@@ -1,0 +1,3 @@
+Ecological thresholds: a survey
+The existence of ecological discontinuities and thresholds has been recognised by ecological economics as a key feature to take into account in the study of environment-economy interactions. This paper reviews some theoretical developments and empirical studies dealing with ecological phenomena involving non-linear dynamics. The literature about this issue reveals that there is abundant evidence of discontinuities and threshold effects as the consequence of human perturbations on ecological systems. However, due to the complexities involved, the predictive capacity of ecology is limited and large uncertainties still remain.
+10.1016/S0921-8009(01)00146-X

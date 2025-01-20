@@ -1,0 +1,3 @@
+Uncertainty, Economics, and the Spread of an Invasive Plant Species
+In this study, we employ insights from fuzzy set theory to develop an expert survey of the spread and damage caused by an invasive plant species that adversely affects rangeland in California and Nevada. The survey instrument is described as are preliminary results based on survey responses to date. In particular, we construct and discuss membership functions describing infestation levels for nonindigenous weed management. Then, we employ a stochastic dynamic programming (SDP) model to identify economically optimal management choices from a portfolio of potential options, with the results compared to those of a program that seeks to eradicate the invasive species.
+10.1111/1467-8276.00396

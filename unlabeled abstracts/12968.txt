@@ -1,0 +1,3 @@
+Range limits and population dynamics of non-native plants spreading along elevation gradients
+Monitoring the elevation limits of non-native species is a potentially sensitive means of detecting effects of environmental change on invasion dynamics and species ranges. The aim of this study was to investigate temporal changes in the distribution of non-native plant species along elevation gradients in the Swiss Alps by repeating, in 2009, a regional survey from 2003 of 230 sites ranging in elevation from 200 to 2400 m a.s.l. We also studied the fine-scale spatiotemporal population structure of two of the non-native species - Erigeron annuus and Solidago canadensis - along an elevation gradient in a heterogeneous landscape.
+10.1016/J.PPEES.2016.04.001

@@ -1,0 +1,3 @@
+Complete mitogenome of the invasive land flatworm Platydemus manokwari
+We sequenced the complete mitogenome of the invasive flatworm Platydemus manokwari (Tricladida order, Geoplanidae family). This 19,959-bp genome contains 36 genes and is almost colinear with the mitogenomes of the two other species previously sampled from the Geoplanidae, Bipalium kewense and Obama nungara, both of which feature an extra tRNA gene. A single P. manokwari gene, encoding tRNA-Cys, is rearranged compared to its orthologs in the latter flatworms. Another distinctive trait of P. manokwari is the unusually large cox2 gene. In the phylogeny inferred from 12 proteins, P. manokwari formed a strongly supported clade with B. kewense and O. nungara.
+10.1080/23802359.2020.1748532

@@ -1,0 +1,3 @@
+Plasmodium vivax Strains Use Alternative Pathways for Invasion
+Abstract Plasmodium vivax has 2 invasion ligand/host receptor pathways (P. vivax Duffy-binding protein/Duffy antigen receptor for chemokines [DARC] and P. vivax reticulocyte binding protein 2b/transferrin receptor [TfR1]) that are promising targets for therapeutic intervention. We optimized invasion assays with isogenic cultured reticulocytes. Using a receptor blockade approach with multiple P. vivax isolates, we found that all strains utilized both DARC and TfR1, but with significant variation in receptor usage. This suggests that P. vivax, like Plasmodium falciparum, uses alternative invasion pathways, with implications for pathogenesis and vaccine development.
+10.1093/INFDIS/JIAA592

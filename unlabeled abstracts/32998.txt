@@ -1,0 +1,3 @@
+Rethinking the native range concept
+A species is not native outside its native range, but native range is not precisely defined. The invasion literature contains wide discussion of the core concepts such as naturalization, invasiveness, and ecological impact, but the concept of native range has received so little attention that a formal definition does not exist. I considered, among other impediments to a formal definition of native range, the sometimes arbitrariness of the spatial and temporal limits assigned to native range. Broad questions that remain include whether invasion theory can be used to define the native range for species without non-native ranges. (c) 2019 Society for Conservation Biology.
+10.1111/COBI.13406

@@ -1,0 +1,3 @@
+The diffusive logistic model with a free boundary and seasonal succession
+This paper concerns a diffusive logistic equation with a free boundary and seasonal succession, which is formulated to investigate the spreading of a new or invasive species, where the free boundary represents the expanding front and the time periodicity accounts for the effect of the bad and good seasons. The condition to determine whether the species spatially spreads to infinity or vanishes at a finite space interval is derived, and when the spreading happens, the asymptotic spreading speed of the species is also given. The obtained results reveal the effect of seasonal succession on the dynamical behavior of the spreading of the single species.
+10.3934/DCDS.2013.33.2007

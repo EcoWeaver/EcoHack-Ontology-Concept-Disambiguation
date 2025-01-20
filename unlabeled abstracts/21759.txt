@@ -1,0 +1,3 @@
+Landscape-scale determinants of non-native fish communities
+Aim Predicting and preventing invasions depends on knowledge of the factors that make ecosystems susceptible to invasion. Current studies generally rely on non-native species richness (NNSR) as the sole measure of ecosystem invasibility; however, species identity is a critical consideration, given that different ecosystems may have environmental characteristics suitable to different species. Our aim was to examine whether non-native freshwater fish community composition was related to ecosystem characteristics at the landscape scale.
+10.1111/J.1472-4642.2011.00858.X

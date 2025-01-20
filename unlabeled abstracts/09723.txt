@@ -1,0 +1,3 @@
+The diffusive logistic model with a free boundary in a heterogeneous time-periodic environment
+This paper is concerned with a diffusive logistic model with advection and a free boundary in a spatially heterogeneous and time periodic environment. Such a model may be used to describe the spreading of a new or invasive species with the free boundary representing the expanding front. Under more general assumptions on the initial data and the function standing for the intrinsic growth rate of the species, sharp criteria for spreading and vanishing are established, and estimates for spreading speed when spreading occurs are also derived. The obtained results considerably improve and complement the existing ones, especially those of
+10.1016/J.JDE.2017.04.013

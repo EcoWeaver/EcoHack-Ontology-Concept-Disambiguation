@@ -1,0 +1,3 @@
+Beyond competition: incorporating positive interactions between species to predict ecosystem invasibility
+Incorporating positive species interactions into models relating native species richness to community invasibility will increase our ability to forecast, prevent, and manage future invasions.
+10.1371/JOURNAL.PBIO.0060162

@@ -1,0 +1,3 @@
+Invasion strategies in clonal aquatic plants: are phenotypic differences caused by phenotypic plasticity or local adaptation?
+Background and Aims The successful spread of invasive plants in new environments is often linked to multiple introductions and a diverse gene pool that facilitates local adaptation to variable environmental conditions. For clonal plants, however, phenotypic plasticity may be equally important. Here the primary adaptive strategy in three non-native, clonally reproducing macrophytes (Egeria densa, Elodea canadensis and Lagarosiphon major) in New Zealand freshwaters were examined and an attempt was made to link observed differences in plant morphology to local variation in habitat conditions.
+10.1093/AOB/MCQ176

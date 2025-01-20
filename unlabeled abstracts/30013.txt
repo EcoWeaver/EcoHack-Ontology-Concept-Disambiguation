@@ -1,0 +1,3 @@
+Depletion of heterogeneous source species pools predicts future invasion rates
+1. Predicting how increasing rates of global trade will result in new establishments of potentially damaging invasive species is a question of critical importance to the development of national and international policies aimed at minimizing future invasions. Centuries of historical movement and establishment of invading species may have depleted the supply of species available for future invasions, and it has been suggested that the problem of invasions will diminish as a result of this. However, the extent to which source pool depletion affects future invasions remains unclear.
+10.1111/1365-2664.12895

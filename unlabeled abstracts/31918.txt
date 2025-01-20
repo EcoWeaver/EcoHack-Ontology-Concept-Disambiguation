@@ -1,0 +1,3 @@
+Integrodifference equations, Allee effects, and invasions
+Models that describe the spread of invading organisms often assume no Allee effect. In contrast, abundant observational data provide evidence for Allee effects. We study an invasion model based on an integrodifference equation with an Allee effect. We derive a general result for the sign of the speed of invasion. We then examine a special, linear-constant, Allee function and introduce a numerical scheme that allows us to estimate the speed of traveling wave solutions.
+10.1007/S002850100116

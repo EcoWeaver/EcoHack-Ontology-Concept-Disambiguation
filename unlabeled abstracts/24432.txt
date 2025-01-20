@@ -1,0 +1,3 @@
+Least-cost tradeable risk permit scheme for controlling risk of introducing invasive alien species by shipping
+The probability of alien species invasion is reasonably characterized by a weakest link technology. A tradeable risk permit system for shippers has been proposed as a means of efficiently reducing this invasion probability. Economic jointness arising from statistical independence among private risks for the weakest link technology implies that the risk instrument to be traded should be linear in the log of firm success probabilities, rather than linear in firm success probabilities.
+10.1016/J.ECOLECON.2008.05.014

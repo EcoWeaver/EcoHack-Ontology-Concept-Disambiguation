@@ -1,0 +1,3 @@
+A laboratory study of the effects of shelter availability and invasive crayfish on the growth of native stream fish
+1. The alteration of stream habitats by urbanisation reduces the availability of shelter. Reduced shelter availability may increase both predation risks and metabolic costs, negatively affecting the growth performance of stream fish. Although urbanised streams often allow the establishment of invasive species, the additive or interactive effects of shelter availability and invasive species are rarely explored. The invasive red swamp crayfish (Procambarus clarkii) is a strong shelter competitor and predator in streams.
+10.1111/J.1365-2427.2012.02743.X

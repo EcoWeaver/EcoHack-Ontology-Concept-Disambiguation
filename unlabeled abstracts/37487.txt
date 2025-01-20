@@ -1,0 +1,3 @@
+The complete chloroplast genome of an invasive herb Bidens frondosa L. (Asteraceae)
+Bidens frondosa is an annual invasive alien species of Asteraceae. The complete plastid genome of B. frondosa was determined and analyzed in this study. The genome was 150,490 bp in length, including a large single-copy region (LSC) of 83,500 bp, a small single-copy region (SSC) of 17,628 bp, and a pair of inverted repeat regions (IR) of 24,681 bp each. The plastid genome encodes a set of 135 genes, which comprised 87 protein-coding genes, 8 ribosomal RNA genes, and 40 transfer RNA genes.
+10.1080/23802359.2020.1749903

@@ -1,0 +1,3 @@
+Isolation and characterization of twelve polymorphic microsatellite markers for the invasive ascidian Styela clava (Tunicata)
+The invasive solitary ascidian Styela clava has spread extensively along European coasts since its first occurrence in the early 1950s. In order to characterize spatial and temporal patterns of genetic change during its establishment and subsequent spread, we developed 12 species-specific loci from an enriched microsatellite library. Polymorphism was explored in one native and two introduced populations (N = 31 +- 1). Number of alleles per locus varied from two to 13 (mean = 7). The average expected heterozygosity within populations ranged from 0.539 to 0.580.
+10.1111/J.1471-8286.2005.01153.X

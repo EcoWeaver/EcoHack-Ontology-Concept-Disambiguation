@@ -1,0 +1,3 @@
+Plant Diversity Enhances Soil Fungal Diversity and Microbial Resistance to Plant Invasion
+Our study newly showed that plant invasion significantly altered relationships between aboveground and belowground diversity. Specifically, plant richness indirectly promoted soil fungal richness through the increase of soil total carbon (TC) without plant invasion, while plant richness had a direct positive effect on soil fungal richness under plant invasion conditions.
+10.1128/AEM.00251-21

@@ -1,0 +1,3 @@
+Genome Sequence of Penicillium capsulatum Strain ATCC 48735, a Rare Penicillium Species Used in Paper Manufactories but That Recently Caused Invasive Infection
+ABSTRACT The genus Penicillium phylogenetically belongs to Trichocomaceae , with approximately 300 reported species. The majority of these species are saprobic and commonly occur in soil. This paper reports the genome sequence of Penicillium capsulatum strain ATCC 48735, a rare Penicillium species used in paper manufactories and that was recently reported as a human-invasive opportunist.
+10.1128/GENOMEA.00307-15

@@ -1,0 +1,3 @@
+Addressing a critique of the TEASI framework for invasive species risk assessment
+We address criticism that the Transport, Establishment, Abundance, Spread, Impact (TEASI) framework does not facilitate objective mapping of risk assessment methods nor defines best practice. We explain why TEASI is appropriate for mapping, despite inherent challenges, and how TEASI offers considerations for best practices, rather than suggesting one best practice.
+10.1111/ELE.12172

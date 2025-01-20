@@ -1,0 +1,3 @@
+Invasion speeds in fluctuating environments
+Biological invasions are increasingly frequent and have dramatic ecological and economic consequences. A key to coping with invasive species is our ability to predict their rates of spread. Traditional models of biological invasions assume that the environment is temporally constant. We examine the consequences for invasion speed of periodic and stochastic fluctuations in population growth rates and in dispersal distributions.
+10.1098/RSPB.2000.1185

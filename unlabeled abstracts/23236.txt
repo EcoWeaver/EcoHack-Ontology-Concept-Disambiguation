@@ -1,0 +1,3 @@
+A dynamic model of controlling invasive species
+A dynamic model of controlling invasive weeds is first developed which is a large scale, nonlinear 0-1 integer programming problem. This model is then applied for the case of control of the invasive grass, Pennisetum ciliare (buffelgrass), in the Arizona desert. The large size of the problem makes the application of direct optimization methods impossible, instead the most frequently suggested strategies were analyzed and their consequences compared. The model is more advanced and complex than those examined in earlier studies.
+10.1016/J.CAMWA.2011.08.037

@@ -1,0 +1,3 @@
+Vulnerabilities and adaptation of ports to climate change
+Climate change is anticipated to have a significant impact on coastal infrastructure, including navigational aids and ports. This paper presents the results of a vulnerability assessment of ports in Australia to climate change. Results reveal variable vulnerability in ports in the short and long term in relation to their exposure to climate change. However, this is offset by inherent adaptive capacity both in current climate change initiatives driven by ports, and in the self-confidence of the industry to be able to adapt. We conclude with a reflection on the implications of these results for future ports analyses.
+10.1080/09640568.2012.716363

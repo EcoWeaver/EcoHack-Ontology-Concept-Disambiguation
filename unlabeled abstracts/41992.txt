@@ -1,0 +1,3 @@
+Aquatic Invasive Species and Non-Random Lake Infestation
+Milfoil is an aggressive aquatic invasive species that affects freshwater lakes by altering lake ecosystems and degrading the quality of water recreation activities. Three studies estimating the effect of milfoil infestation on lakefront property values have each found substantial discounts. However, whether based on past or current methods of treatment, the present value of milfoil mitigation/eradication costs are relatively small. One weakness of the previous studies is that milfoil infestation is treated as random. Using the Horsch-Lewis (2009) data, we treat milfoil infestation as endogenous, and find no adverse price effects to lakefront properties from milfoil during the sample period.
+10.2139/SSRN.1953438

@@ -1,0 +1,3 @@
+Pelagic propagule duration and developmental mode: reassessment of a fading link
+As the main or sole motile stage of many aquatic taxa, propagules play a central role in their population dynamics, macroevolution and biogeography. The premises of studies concerned with dispersal, on issues as diverse as marine protected areas, sustainable fisheries and invasive species, commonly make simplified assumptions linking larval development mode (planktotrophic, lecithotrophic) and pelagic propagule duration (PPD) or pelagic larval duration. Because general empirical tests of these connections have yielded equivocal results, we critically examined the relationship between larval mode and PPD in light of regional and taxon-specific criteria.
+10.1111/GEB.12018

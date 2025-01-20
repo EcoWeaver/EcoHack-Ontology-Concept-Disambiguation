@@ -1,0 +1,3 @@
+'Bigger data' on scale-dependent effects of invasive species on biodiversity cannot overcome confounded analyses: a comment on Stohlgren & Rejmanek (2014)
+A recent study by Stohlgren & Rejmanek (SR: Stohlgren TJ, Rejmanek M. 2014 Biol. Lett. 10. ( doi:10.1098/rsbl.2013.0939 )) purported to test the generality of a recent finding of scale-dependent effects of invasive plants on native diversity; dominant invasive plants decreased the intercept and increased the slope of the species-area relationship. SR (2014) find little correlation between invasive species cover and the slopes and intercepts of SARs across a diversity of sites. We show that the analyses of SR (2014) are inappropriate because of confounding causality.
+10.1098/RSBL.2015.0103

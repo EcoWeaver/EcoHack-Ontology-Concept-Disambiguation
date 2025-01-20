@@ -1,0 +1,3 @@
+Airborne lidar detection and mapping of invasive lake trout in Yellowstone Lake
+The use of airborne lidar to survey fisheries has not yet been extensively applied in freshwater environments. In this study, we investigated the applicability of this technology to identify invasive lake trout (Salvelinus namaycush) in Yellowstone Lake, Yellowstone National Park, USA. Results of experimental trials conducted in 2004 and in 2015-16 provided lidar data that identified groups of fish coherent with current knowledge and models of lake trout spawning sites, and one identified site was later confirmed to have lake trout.
+10.1364/AO.57.004111

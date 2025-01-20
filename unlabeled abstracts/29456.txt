@@ -1,0 +1,3 @@
+Landscape Effects on the Spread of Invasive Species
+Landscapes differ in the composition and configuration of habitats, and this heterogeneity can influence the manner in which invasive species spread in complex ways. To understand this complexity, we outline a framework that identifies how landscape heterogeneity influences spread by causing dispersal behaviour and local population growth to vary across the landscape. We use this framework to review progress over the last 5 years in understanding landscape effects on invasive spread, focussing on the role of interactions between landscape heterogeneity, dispersal and population processes.
+10.1007/S40823-016-0012-Y

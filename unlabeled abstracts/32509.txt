@@ -1,0 +1,3 @@
+Identification of Brassicadiene, a Diterpene Hydrocarbon Attractive to the Invasive Stink Bug Bagrada hilaris, from Volatiles of Cauliflower Seedlings, Brassica oleracea var. botrytis
+Brassicadiene, a novel tricyclic diterpene hydrocarbon, was identified by a combination of mass spectrometry, mi-crochemical tests, and analysis of NMR spectra. The compound constitutes >90% of the volatile organic compounds (VOCs) produced by cauliflower seedlings, Brassica oleracea var. botrytis. The invasive stink bug Bagrada hilaris is strongly attracted to brassicadiene, providing a mechanism for this herbivore, which specializes on cruciferous plants, to locate its hosts at a nutrient-rich and vulnerable stage.
+10.1021/ACS.ORGLETT.0C00707

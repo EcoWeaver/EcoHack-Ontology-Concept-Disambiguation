@@ -1,0 +1,3 @@
+Characterization and PCR multiplexing of 14 new polymorphic microsatellite loci for the invasive subantarctic carabid Merizodus soledadinus (Coleoptera: Carabidae)
+Seventeen novel microsatellite markers were characterized from an enriched DNA library for the invasive carabid beetle Merizodus soledadinus. Loci were tested, as parts of two multiplex sets in 48 M. soledadinus from 2 populations. 14 loci gave reliable amplification, and genetic diversity ranged from 2 to 6 alleles per locus. In other species of the supertribe trechitae, 8 loci reliably amplified in Eotachys bistriatus, whereas all failed for Trechisibus antarcticus and Trechus obtusus.
+10.1007/S12686-009-9105-9

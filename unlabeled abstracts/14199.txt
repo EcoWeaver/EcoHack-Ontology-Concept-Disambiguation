@@ -1,0 +1,3 @@
+Anthropogenic-based regional-scale factors most consistently explain plot-level exotic diversity in grasslands
+Evidence linking the accumulation of exotic species to the suppression of native diversity is equivocal, often relying on data from studies that have used different methods. Plot-level studies often attribute inverse relationships between native and exotic diversity to competition, but regional abiotic filters, including anthropogenic influences, can produce similar patterns. We seek to test these alternatives using identical scale-dependent sampling protocols in multiple grasslands on two continents.
+10.1111/GEB.12157

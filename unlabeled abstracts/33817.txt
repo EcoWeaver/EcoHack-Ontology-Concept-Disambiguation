@@ -1,0 +1,3 @@
+Evolutionary status of the invasive muskrat <i>Ondatra zibethicus</i> revealed by complete mitochondrial genome
+The muskrat Ondatra zibethicus is native to North America, However it has successfully dispersed into most areas of northeast China in the past decades, which may lead to potential impact on endemic eco-system. We determined and annotated the whole mtDNA genome of the muskrat O. zibethicus to better understand the evolutionary relationship of this invasive species with other Rodentia distributed in China. The complete mitogenome is 16,351 bp in length, includes 13 protein-coding genes, 22 tRNA genes, 2 rRNA genes, and a control region. We built the phylogenetic tree of muskrat and other 11 most closely related Rodentia species.
+10.1080/23802359.2020.1719931

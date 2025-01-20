@@ -1,0 +1,3 @@
+Merging DNA metabarcoding and ecological network analysis to understand and build resilient terrestrial ecosystems
+1.Significant advances in both mathematical and molecular approaches in ecology offer unprecedented opportunities to describe and understand ecosystem functioning. Ecological networks describe interactions between species, the underlying structure of communities and the function and stability of ecosystems. They provide the ability to assess the robustness of complex ecological communities to species loss, as well as a novel way of guiding restoration. However, empirically quantifying the interactions between entire communities remains a significant challenge.
+10.1111/1365-2435.12659

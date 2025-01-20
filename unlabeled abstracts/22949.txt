@@ -1,0 +1,3 @@
+Biosecurity threats: the design of surveillance systems, based on power and risk
+We consider the problem of designing a surveillance system to detect a broad range of invasive species across a heterogeneous sampling frame. We present a model to detect a range of invertebrate invasives whilst addressing the challenges of multiple data sources, stratifying for differential risk, managing labour costs and providing sufficient power of detection. We determine the number of detection devices required and their allocation across the landscape within limiting resource constraints. The resulting plan will lead to reduced financial and ecological costs and an optimal surveillance system. KeywordsBiosecurity-Surveillance system-Power-Differential risk
+10.1007/S10651-009-0113-4

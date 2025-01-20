@@ -1,0 +1,3 @@
+How range shifts induced by climate change affect neutral evolution.
+We investigate neutral evolution during range shifts in a strategic model of a metapopulation occupying a climate gradient. Using heritable, neutral markers, we track the spatio-temporal fate of lineages. Owing to iterated founder effects ('mutation surfing'), survival of lineages derived from the leading range limit is enhanced. At trailing limits, where habitat suitability decreases, survival is reduced (mutations 'wipe out'). These processes alter (i) the spatial spread of mutations, (ii) origins of persisting mutations and (iii) the generation of diversity. We show that large changes in neutral evolution can be a direct consequence of range shifting.
+10.1098/RSPB.2008.1567

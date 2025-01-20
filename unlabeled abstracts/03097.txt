@@ -1,0 +1,3 @@
+Are invasive species the drivers of ecological change?
+Invasive species are widely accepted as one of the leading direct causes of biodiversity loss. However, much of the evidence for this contention is based on simple correlations between exotic dominance and native species decline in degraded systems. Although appealing, direct causality is not the only possible interpretation. A plausible alternative hypothesis is that exotic dominance could be the indirect consequence of habitat modification driving native species loss. In a new paper, MacDougall and Turkington now provide the first direct test of whether invasive species are the drivers of community change, or merely 'passengers' along for the environmental ride.
+10.1016/J.TREE.2005.07.006

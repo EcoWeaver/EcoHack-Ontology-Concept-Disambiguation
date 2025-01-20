@@ -1,0 +1,3 @@
+A putative allelopathic agent of Russian knapweed occurs in invaded soils
+Allelopathy as a mechanism of invasion in plant communities remains a debated topic, partly due to lack of techniques to measure allelochemical output and stability in the field. Evidence has arisen to support allelopathic mechanisms in several invasive knapweeds, including Russian knapweed. Previous studies have shown that a phytotoxin, 7,8-benzoflavone, is produced by Russian knapweed roots under soil-free conditions. Here we describe a high performance liquid chromatography (HPLC) method to detect this compound in soil and we present the first observations of this compound from Russian knapweed infested soils.
+10.1016/J.SOILBIO.2007.01.020

@@ -1,0 +1,3 @@
+Photic Barriers to Poleward Range-shifts
+With climate warming, organisms are shifting their ranges towards the poles, tracking their optimal thermal environments. Day-length, the driver of daily and annual timing, is, however, fixed by latitude and date. Timing and photoreception mechanisms adapted to ancestral photic environments may restrict range-shift capacity, resulting in photic barriers to range-shifts.
+10.1016/J.TREE.2020.04.011

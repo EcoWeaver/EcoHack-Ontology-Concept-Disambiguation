@@ -1,0 +1,3 @@
+Characterization of microsatellite loci for the Chinese mitten crab,Eriocheir sinensis
+The Chinese mitten crab, Eriocheir sinensis is an important human food source in Asia and causes considerable ecological and economical damage as a recent invader of North America and Europe. Here we report the isolation and characterization of 12 highly polymorphic microsatellite loci for E. sinensis. The number of observed alleles per locus ranged from 7 to 40 and the observed heterozygosity from 0.50 to 0.95. These markers should prove a useful tool to investigate the colonization process and its evolutionary implications.
+10.1046/J.1471-8286.2003.00336.X

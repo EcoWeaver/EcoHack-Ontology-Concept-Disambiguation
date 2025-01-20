@@ -1,0 +1,3 @@
+A forward genetic screen identifies erythrocyte CD55 as essential for Plasmodium falciparum invasion
+A way to dissect malaria's secrets Malaria has exerted a strong selective force on the human genome. However, efforts to identify host susceptibility factors have been hindered by the absence of a nucleus in red blood cells. Egan et al. developed an approach involving blood stem cells to discover host factors critical for Plasmodium falciparum infection of red blood cells. The authors identified an essential host receptor for parasite invasion that could provide a target for malaria therapeutics. Science , this issue p. 711
+10.1126/SCIENCE.AAA3526

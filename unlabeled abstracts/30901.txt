@@ -1,0 +1,3 @@
+Aliens in Transylvania: risk maps of invasive alien plant species in Central Romania
+Using the MAXENT algorithm, we developed risk maps for eight invasive plant species in southern Tran-sylvania, Romania, a region undergoing drastic land-use changes. Our findings show that invasion risk increased with landscape heterogeneity. Roads and agricultural areas were most prone to invasion, whereas forests were least at risk.
+10.3897/NEOBIOTA.24.7772

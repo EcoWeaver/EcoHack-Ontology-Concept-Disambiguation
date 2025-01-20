@@ -1,0 +1,3 @@
+Characterization of microsatellite loci in the widely introduced estuarine anemone Nematostella vectensis
+We characterized 10 polymorphic microsatellite loci from Nematostella vectensis, a burrowing anemone recently introduced to estuaries along the Pacific coast of North America and the southeast coast of England. Preliminary results indicate high variability and significant departures from Hardy-Weinberg equilibrium, the latter likely the result of population genetic structure and reproductive plasticity. Both results are consistent with earlier genetic analyses. These markers will be useful for resolving global patterns of introduction and for describing spatio-temporal genetic structure at local and regional scales.
+10.1111/J.1471-8286.2006.01350.X

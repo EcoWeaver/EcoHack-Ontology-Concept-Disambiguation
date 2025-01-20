@@ -1,0 +1,3 @@
+DNA barcoding reveals a cryptic nemertean invasion in Atlantic and Mediterranean waters
+For several groups, like nemerteans,morphology-based identification is a hard discipline, but DNA barcoding may help non-experts in the identification process. In this study,DNAbarcoding is used to reveal the cryptic invasion of Pacific Cephalothrix cf. simula into Atlantic and Mediterranean coasts. AlthoughDNA barcoding is a promising method for the identification of Nemertea, only 6 % of the known number of nemertean species is currently associated with a correct DNA barcode. Therefore, additional morphological and molecular studies are necessary to advance the utility of DNA barcoding in the characterisation of possible nemertean alien invasions.
+10.1007/S10152-013-0346-3

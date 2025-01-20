@@ -1,0 +1,3 @@
+A tree well travelled: global genetic structure of the invasive treeAcacia saligna
+Invasiveness of an introduced species in one region is often used to predict risk and inform management of the same species elsewhere. This assumes that entities in both regions are equivalent in their ecology and response to management. However, intraspecific genetic variation can result in differences in performance between regions. We conducted population genetic and phylogeographic analyses of the widely introduced and intraspecifically diverse Australian tree species Acacia saligna, in order to improve our understanding of its worldwide invasion history.
+10.1111/JBI.12436

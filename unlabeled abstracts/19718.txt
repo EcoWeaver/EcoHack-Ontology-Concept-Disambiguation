@@ -1,0 +1,3 @@
+Deconstructing the native-exotic richness relationship in plants
+Aim Classic theory suggests that species-rich communities should be more resistant to the establishment of exotic species than species-poor communities. Although this theory predicts that exotic species should be less diverse in regions that contain more native species, macroecological analyses often find that the correlation between exotic and native species richness is positive rather than negative. To reconcile results with theory, we explore to what extent climatic conditions, landscape heterogeneity and anthropogenic disturbance may explain the positive relationship between native and exotic plant richness.
+10.1111/J.1466-8238.2011.00708.X

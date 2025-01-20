@@ -1,0 +1,3 @@
+Length?weight relationships of the invasive topmouth gudgeon (Pseudorasbora parva) in ten lakes in the UK
+Summary The topmouth gudgeon (Pseudorasbora parva) is a species that is becoming invasive in UK waters. Few biological studies have been completed on the species in this extended range, resulting in sparse information in some aspects of their invasion biology. Regarding length-weight relationships, this is remedied in this study by providing data for 10 lake populations in the UK. Using fish length range 2.5-11.8 cm, values of a and b in the length-weight equation are provided. Values of b ranged between 2.76 and 3.32. Across all lakes, the relationship was W = 0.011L3.03, with weight in grams and length (fork) in cm.
+10.1111/J.1439-0426.2007.00870.X

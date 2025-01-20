@@ -1,0 +1,3 @@
+Consistent flowering response to global warming by European plants introduced into North America
+1. The reliability of species distribution models (SDM) to predict the probable response of alien plants to climate change rests on the assumption that plant performance in relation to temperature in the introduced range will be similar to that observed in the native range. Yet, alien plants may exhibit enhanced performance or different environment-distribution relationships following their introduction into a new area. Empirical data are therefore essential to test whether the responsiveness of species to climate is equivalent in the native and introduced ranges.
+10.1111/J.1365-2435.2011.01899.X

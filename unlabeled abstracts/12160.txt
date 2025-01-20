@@ -1,0 +1,3 @@
+Optimizing ecological survey effort over space and time
+1.Previous studies that optimise allocation of surveillance resources over space have assumed that detection rates are constant over time and that travel or survey costs are the same for all sites. Other recent research explicitly accounts for stochastically varying detection rates and distinct travel costs but restricts attention to the optimal number of visits to a single site. Here, we integrate these approaches to construct a model that optimises the allocation of surveillance effort over both space and time.
+10.1111/2041-210X.12564

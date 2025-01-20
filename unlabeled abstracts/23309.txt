@@ -1,0 +1,3 @@
+The North American horticultural industry and the risk of plant invasion
+We develop a monopolistic competition model of the horticultural industry and estimate the resulting profit function with U.S. and Canadian industry data. Combining the results with a hazard analysis of the characteristics of exotic plants introduced in North America, we explore optimal tax simulations for internalizing the risk and costs of a potential plant invasion. If the share of the exotic plant sales in final profits is large, then the resulting annual fee will be high, discouraging the expansion of the nursery industry. However, the annual revenues could fund efforts to mitigatethe damages resulting from any accidental plant invasion.
+10.1111/J.1574-0862.2011.00556.X

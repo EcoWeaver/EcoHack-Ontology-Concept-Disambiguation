@@ -1,0 +1,3 @@
+Preliminary model of tunicate infestation impacts on seston availability and organic sedimentation in longline mussel farms
+The productivity of a bivalve farm is largely determined by the availability of organic seston and the level of competition for that naturally limited resource. Farm production may also be curtailed by regulatory or certification frameworks concerned with controlling biodeposition, i.e. the sedimentation of organic material. Fouling communities dominated by filter-feeding tunicates which both compete for food resources and increase biodeposition levels thus have the potential to further limit bivalve farm productivity.
+10.1016/J.AQUACULTURE.2016.09.026

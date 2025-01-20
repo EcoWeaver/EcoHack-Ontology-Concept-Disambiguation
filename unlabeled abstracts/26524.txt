@@ -1,0 +1,3 @@
+Time-delayed predator-prey and competition wavefronts. Theory and comparison to experimental observations
+The effect of the delay time on the speed of wave fronts for interacting-diffusing models is studied analytically and numerically, both for predator-prey and competition models. It is shown that the interaction parameters may be evaluated from the time during which both species coexist until one of them is driven to extinction. We also compare our predicted speeds with experimental measurements for two biophysical systems. In both cases we find good agreement. (c) 2005 Elsevier B.V. All rights reserved.
+10.1016/J.PHYSA.2005.10.018

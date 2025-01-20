@@ -1,0 +1,3 @@
+Microsatellite Markers for Characterization of Native and Introduced Populations of Plasmopara viticola, the Causal Agent of Grapevine Downy Mildew
+ABSTRACT We reported 31 microsatellite markers that have been developed from microsatellite-enriched and direct shotgun pyrosequencing libraries of Plasmopara viticola , the causal agent of grapevine downy mildew. These markers were optimized for population genetics applications and used to characterize 96 P. viticola isolates from three European and three North American populations.
+10.1128/AEM.01255-12

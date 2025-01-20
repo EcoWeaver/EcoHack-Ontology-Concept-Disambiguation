@@ -1,0 +1,3 @@
+Isolation of microsatellite loci from the coqui frog, Eleutherodactylus coqui
+Thirteen microsatellite loci were isolated from the coqui frog (Eleutherodactylus coqui) and optimized for future research. The loci were screened across 37 individuals from two Puerto Rican populations. Loci were variable with the number of alleles per locus ranging from three to 38. Polymorphic information content ranged from 0.453 to 0.963 and observed heterozygosity for each population ranged from 0.320 to 0.920.
+10.1111/J.1471-8286.2007.01899.X

@@ -1,0 +1,3 @@
+Simulating the recent impacts of multiple biotic disturbances on forest carbon cycling across the United States.
+Biotic disturbances (BDs, e.g., insects, pathogens and wildlife herbivory) substantially affect boreal and temperate forest ecosystems globally. However, accurate impact assessments comprising larger spatial scales are lacking to date, although these are critically needed given the expected disturbance intensification under a warming climate. Hence, our quantitative knowledge on current and future BD impacts, e.g., on forest carbon
+10.1111/GCB.13974

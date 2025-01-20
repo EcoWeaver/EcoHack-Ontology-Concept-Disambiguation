@@ -1,0 +1,3 @@
+Attenuation and modification of the ballast water microbial community during voyages into the Canadian Arctic
+Ballast water is a major vector of non-indigenous species introductions world-wide. Our understanding of population dynamics of organisms entrained in ballast is largely limited to studies of zooplankton and phytoplankton. Bacteria are more numerous and diverse than zooplankton or phytoplankton, yet remain comparatively understudied. We apply a metagenomics approach to characterize changes in the microbial ballast water community over the course of three voyages on one ship, and assess the effects of ballast water exchange (BWE), spring/summer sampling month and time since voyage start.
+10.1111/DDI.12552

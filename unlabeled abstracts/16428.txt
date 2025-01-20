@@ -1,0 +1,3 @@
+Dna c-values of 20 invasive alien species and 3 native species in south china
+Cultivated fields and forests in South China are experiencing serious damage due to invasive alien plants. We investigated the relation between DNA C-values and invasiveness. The DNA C-values of 23 species ranged from 0.39 pg to 3.37 pg. Herbs, perennials and native species had higher mean DNA C-values than shrubs, annuals and invasive alien species. DNA C-values decreased with increasing invasiveness. Paederia scandens, a harmful native species, has the lowest DNA C-value among the perennials, indicating that native species with low nuclear content may also possess an invasive potential.
+10.2298/ABS1404465G

@@ -1,0 +1,3 @@
+Spatial dynamics of a nonlocal and delayed population model in a periodic habitat
+We derived an age-structured population model with nonlocal effects and time delay in a periodic habitat. The spatial dynamics of the model including the comparison principle, the global attractivity of spatially periodic equilibrium, spreading speeds, and spatially periodic traveling wavefronts is investigated. It turns out that the spreading speed coincides with the minimal wave speed for spatially periodic travel waves.
+10.3934/DCDS.2011.29.343

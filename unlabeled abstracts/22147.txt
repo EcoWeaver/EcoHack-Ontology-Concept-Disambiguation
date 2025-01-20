@@ -1,0 +1,3 @@
+Patterns of taxonomic diversity and relatedness among native and non-indigenous bryozoans
+Aim The likelihood of a species successfully passing through all stages of the human-mediated invasion process and becoming established at new locations is often determined by phenotypic characteristics. Among species, phenotypic similarity is negatively correlated with phylogenetic distance, but examples of independent evolution of traits in unrelated taxa do exist. Using marine bryozoans as model organisms we predict that, given the selectivity of the invasion process, the phylogenetic relatedness among established non-indigenous species in a region is either higher or lower than that among the native assemblage, but not the same.
+10.1111/J.1472-4642.2008.00553.X

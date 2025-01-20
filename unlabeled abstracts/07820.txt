@@ -1,0 +1,3 @@
+Host-plant invasion by Rhizobium: the role of cell-surface components
+Rhizobia are soil bacteria that can become endosymbionts, reducing atmospheric nitrogen within nodules formed on the roots of legume plants. During tissue and cell invasion, bacterial cell-surface components adapt the bacterium to survive as an endophyte without eliciting host-defence responses. The structures of many of these components have been established recently, allowing their possible roles in invasion to be defined more clearly.
+10.1016/0966-842X(94)90004-3

@@ -1,0 +1,3 @@
+Spatial aspects of trait homogenization within the German flora
+Aim Biotic homogenization, the replacement of local biota by non-indigenous and locally expanding species, is among the major effects of species invasions. Almost all studies related to this topic are focused on the species level, on taxonomic homogenization. Homogenization effects on trait diversity (functional homogenization) may be very important for ecosystem functioning, but they are rarely analysed, especially not at different spatial scales within a single study. This paper aims to examine how the presence of alien species (species introduced since 1500 ad) affects the distribution of ploidy levels in the German flora at different spatial scales.
+10.1111/J.1365-2699.2008.01967.X

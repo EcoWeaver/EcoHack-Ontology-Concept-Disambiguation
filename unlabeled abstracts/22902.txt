@@ -1,0 +1,3 @@
+Spatiotemporal Modeling of Asian Citrus Canker Risks: Implications for Insurance and Indemnification Fund Models
+Asiatic citrus canker is a disease that poses a significant hazard to commercial citrus production. This article examines spatiotemporal models of the risks of citrus canker transmission. Models evaluate risks and are used to price annual contracts, which would pay producers a prespecified indemnity in the event that their grove is found to be infected with canker. Implications for risk management policy are discussed. Copyright Copyright 2009 Agricultural and Applied Economics Association.
+10.1111/J.1467-8276.2009.01321.X

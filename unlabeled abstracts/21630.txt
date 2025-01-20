@@ -1,0 +1,3 @@
+Using multi-scale species distribution data to infer drivers of biological invasion in riparian wetlands
+Aim Biological invasion is a major conservation problem that is of interest to ecological science. Understanding mechanisms of invasion is a high priority, heightened by the management imperative of acting quickly after species introduction. While information about invading species' ecology is often unavailable, species distribution data can be collected near the onset of invasion. By examining distribution patterns of exotic and native plant species at multiple spatial scales, we aim to identify the scale (of those studied) that accounts for most variability in exotic species abundance, and infer likely drivers of invasion.
+10.1111/J.1472-4642.2009.00631.X

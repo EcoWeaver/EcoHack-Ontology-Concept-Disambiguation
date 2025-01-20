@@ -1,0 +1,3 @@
+Plants obey (and disobey) the island rule
+The island rule predicts that small animals evolve to become larger on islands, while large animals evolve to become smaller. It has been studied for over half a century, and its validity is fiercely debated. Here, we provide a perspective on the debate by conducting a test of the island rule in plants. Results from an extensive dataset on islands in the southwest Pacific illustrate that plant stature and leaf area obey the island rule, but seed size does not. Our results indicate that the island rule may be more pervasive than previously thought and that support for its predictions varies among functional traits.
+10.1073/PNAS.1907424116

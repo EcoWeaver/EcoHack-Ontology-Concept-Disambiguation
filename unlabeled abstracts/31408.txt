@@ -1,0 +1,3 @@
+A Model Based on Biological Invasions for Island Evolutionary Algorithms
+Migration strategy plays an important role in designing effective distributed evolutionary algorithms. Here, a novel migration model inspired to the phenomenon known as biological invasion is adopted. The migration strategy is implemented through a multistage process involving large invading subpopulations and their competition with native individuals. In this work such a general approach is used within an island parallel model adopting Differential Evolution as the local algorithm. The resulting distributed algorithm is evaluated on a set of well known test functions and its effectiveness is compared against that of a classical distributed Differential Evolution.
+10.1007/978-3-642-35533-2_14

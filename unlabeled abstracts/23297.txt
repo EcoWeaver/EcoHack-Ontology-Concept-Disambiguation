@@ -1,0 +1,3 @@
+Optimizing invasive species control across space: willow invasion management in the Australian Alps
+1. A key problem facing invasive species management is how best to allocate surveillance and control effort. Models of the establishment and spread of invasive species are widely used to predict species' occurrence across space and inform resource prioritization. However, the way they should be used to direct control effort is less clear. Managers could exhaustively search and treat the few highest priority locations or apply less thorough effort more broadly. The choice between these options is a question of balancing resources to maximize local success while minimizing further spread.
+10.1111/J.1365-2664.2011.02016.X

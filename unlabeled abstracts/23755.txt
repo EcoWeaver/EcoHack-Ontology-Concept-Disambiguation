@@ -1,0 +1,3 @@
+Time to establishment success for introduced signal crayfish in Sweden - a statistical evaluation when success is partially known
+1. The signal crayfish Pacifastacus leniusculus is an invasive species in Sweden, threatening the red-listed nobel crayfish Astacus astacus through spreading the crayfish plague. Time-to-event models can handle censored data on such introduced populations for which the state (successful or not) is only partially known at the last observation, but even though data on introduced populations most often are censored, this type of model is usually not used for likelihood-based inference and predictions of the dynamics of establishing populations.
+10.1111/J.1365-2664.2010.01849.X

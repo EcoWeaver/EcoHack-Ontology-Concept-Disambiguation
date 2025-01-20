@@ -1,0 +1,3 @@
+Wolbachia: invasion biology in South pacific butterflies.
+Wolbachia ensdosymbionts are well known for their ability to manipulate the population biology and development of their hosts. One of the less studied outcomes of Wolbachia infection with this symbiont is the selective killing of male embryos. Recent work on butterflies living on different South Pacific islands is beginning to help us understand the complexity of the co-evolutionary interactions between these partners.
+10.1016/J.CUB.2007.01.038

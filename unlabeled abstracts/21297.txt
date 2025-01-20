@@ -1,0 +1,3 @@
+Spatially-explicit sensitivity analysis for conservation management: exploring the influence of decisions in invasive alien plant management
+Aim Decision-support models have considerable potential for guiding management strategies when problems are complex. The robustness of such decision-making processes is rarely evaluated, and the influence of decision criteria (or factors) in management decisions is seldom considered. We present a framework for a spatially-explicit sensitivity analysis by using a scheme developed to provide objective guidelines, in the form of static priority maps, for managing woody invasive alien plants (IAPs).
+10.1111/J.1472-4642.2010.00659.X

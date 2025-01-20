@@ -1,0 +1,3 @@
+Genome Sequence of Paenibacillus alvei DSM 29, a Secondary Invader during European Foulbrood Outbreaks
+ABSTRACT Paenibacillus alvei is known as a secondary invader during European foulbrood of honeybees. Here, we announce the 6.83-Mb draft genome sequence of P. alvei type strain DSM 29. Putative genes encoding an antimicrobial peptide, a binary toxin, a mosquitocidal toxin, alveolysin, and different polyketides and nonribosomal peptides were identified.
+10.1128/JB.01698-12

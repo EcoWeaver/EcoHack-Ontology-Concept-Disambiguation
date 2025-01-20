@@ -1,0 +1,3 @@
+The diffusive logistic equation with a free boundary and sign-changing coefficient
+This short paper concerns a diffusive logistic equation with a free boundary and sign-changing coefficient, which is formulated to study the spread of an invasive species, where the free boundary represents the expanding front. A spreading-vanishing dichotomy is derived, namely the species either successfully spreads to the right-half-space as time and survives (persists) in the new environment, or it fails to establish itself and will extinct in the long run. The sharp criteria for spreading and vanishing are also obtained. When spreading happens, we estimate the asymptotic spreading speed of the free boundary.
+10.1016/J.JDE.2014.10.022

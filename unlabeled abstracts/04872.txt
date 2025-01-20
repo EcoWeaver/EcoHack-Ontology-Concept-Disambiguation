@@ -1,0 +1,3 @@
+Control of introduced species using Trojan sex chromosomes
+To control introduced exotic species that have predominantly genetic, but environmentally reversible, sex determination (e.g. many species of fish), Gutierrez and Teem recently modeled the use of carriers of Trojan Y chromosomes--individuals who are phenotypically sex reversed from their genotype. Repeated introduction of YY females into wild populations should produce extreme male-biased sex ratios and eventual elimination of XX females, thus leading to population extinction. Analogous dynamics are expected in systems in which sex determination is influenced by one or a few major genes on autosomes.
+10.1016/J.TREE.2007.06.010

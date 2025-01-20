@@ -1,0 +1,3 @@
+Microsatellite loci for the invasive colonial hydrozoan Cordylophora caspia.
+Cordylophora caspia, a colonial hydrozoan native to the Ponto-Caspian region, has become a common invader of both fresh and brackish water ecosystems of North America and Europe. We describe 11 polymorphic microsatellite loci for this species. Preliminary analyses indicate that population substructure may contribute to departures from Hardy-Weinberg equilibrium. In addition, new loci failed to consistently amplify Cordylophora samples known to be genetically distant from those utilized in this study, indicating the presence of cryptic diversity within the taxon.
+10.1111/J.1755-0998.2008.02109.X

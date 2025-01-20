@@ -1,0 +1,3 @@
+Range Shifts Under Constant-Speed and Accelerated Climate Warming
+Many species are experiencing range shifts as the climate warms. Earlier models have considered moving-habitat scenarios where the shift speed of the moving habitat is either constant or fluctuates around a constant speed. This paper considers scenarios where the shifting speed may either be constant or accelerated. In addition to population persistence, the paper also analyzes the range-shift deficit, which is a lag in the spatial distribution of the population. Another highlight of the results is an analytic formula for a population persistence metric in a particular example, which adds to existing analytic formulas about this persistence metric in the literature.
+10.1007/S11538-021-00963-8

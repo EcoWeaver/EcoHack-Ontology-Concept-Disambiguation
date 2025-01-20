@@ -1,0 +1,3 @@
+Is it possible to infer the number of colonisation events from genetic data alone?
+The current state of populations is to a large determined by events in the past that we have no information about. Thus, we have to rely on indirect methods to infer likely scenarios of these events. In this paper we describe a simple simulation approach to infer the minimum number of introductions of an invasive species, the round goby in the Baltic Sea. The results show that several introductions are most likely to have occurred, possibly even a constant rate of immigration. This poses new threats to local fish populations that currently suffer from overfishing. The method is very general and can be applied to other similar situations.
+10.1016/J.ECOINF.2010.01.002

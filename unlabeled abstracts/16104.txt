@@ -1,0 +1,3 @@
+North Atlantic Islands with native and alien trees: are there differences in diversity and species-area relationships?
+Are there differences in species composition and richness between islands that were reforested more than 70 yr ago with the introduced Pinus mugo compared with islands supporting the native Pinus sylvestris? Do the results depend on autocorrelation in geographical space and species ordination space? Species richness is expected to increase as a function of the size of an island; are the responses to island size different between P. mugo and P. sylvestris islands. Does the land-use history have an impact on the current species composition and richness pattern?
+10.1111/JVS.12045

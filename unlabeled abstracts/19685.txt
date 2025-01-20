@@ -1,0 +1,3 @@
+Time/temperature combustion profiles of various wood-based biofuels
+A lab scale combustion unit was designed to characterise the performance of various wood and wood-based biofuels commonly used in South Africa for energy production, cooking and heating. The unit was constructed in a way that it provided similar testing conditions for all samples and produced reproducible results. Time/temperature profiles were recorded for all biofuels and characteristic values, such as the maximum temperature or the coal temperature compared. Rooikrans (an invasive species) and Camelthorn performed best amongst the wood products, while coal and wood briquettes performed best amongst the processed products.
+10.1016/J.BIOMBIOE.2012.01.021

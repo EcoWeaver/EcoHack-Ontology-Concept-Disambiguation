@@ -1,0 +1,3 @@
+Evidence for climatic niche and biome shifts between native and novel ranges in plant species introduced to Australia
+1. The potential invasive success of exotic plant species is thought to be associated with similarity in climate and biome between the original and novel range. We tested this assumption by quantifying the match between the realized climatic niches and biomes occupied in the exotic and native range of 26 plant species introduced to Australia. We then explored correlations between the propensity to shift climatic niche with residence time, invasion status, geographic range size, and species traits.
+10.1111/J.1365-2745.2010.01677.X

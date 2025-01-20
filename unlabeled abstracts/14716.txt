@@ -1,0 +1,3 @@
+Development and characterization of ten polymorphic microsatellite markers for the American mud snails Cerithideopsis californica
+We describe ten polymorphic microsatellite markers in the American mud snail, Cerithideopsis californica which is declining after the invasion of an Asian mud snail. The number of alleles per locus ranged from 4 to 15. Expected heterozygosity ranged from 0.44 to 0.85. No loci deviated significantly from Hardy-Weinberg equilibrium and no significant linkage disequilibrium was detected after the correction for multiple testing. The set of markers described here will constitute efficient tools for the conservation genetic study of C. californica.
+10.1007/S12686-015-0494-7

@@ -1,0 +1,3 @@
+Spatial and temporal patterns of range expansion of white-winged doves in the USA from 1979 to 2007
+The geographical expansion of white-winged doves (Zenaida asiatica) in North America has attracted the attention of biologists and sportsmen because of their recreational and aesthetic value; however, data on factors driving the spatial spread of this species are lacking. We examined spatial and temporal patterns of range expansion for white-winged doves along the northern edge of their geographical range from 1979 to 2007 and used a dynamic occupancy model to estimate when and where doves would be found along an expansion gradient.
+10.1111/JBI.12344

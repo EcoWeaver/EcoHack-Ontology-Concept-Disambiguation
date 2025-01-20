@@ -1,0 +1,3 @@
+Incorporating Information Exposure Into a Theory of Planned Behavior Model to Enrich Understanding of Proenvironmental Behavior
+This study proposes including variables related to information exposure as background variables in a theory of planned behavior (TPB) model. Minimizing the spread of aquatic invasive species by anglers provides context. A survey was administered to anglers that included TPB and information channel items. Regression analysis found that exposure to information from different channels was associated with TPB variables, though the direction and strength varied. Including information exposure in a TPB model may clarify underlying mechanisms in environmental behavior change campaigns.
+10.1177/1075547015593085

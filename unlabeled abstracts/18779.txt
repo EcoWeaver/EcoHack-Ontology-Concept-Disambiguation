@@ -1,0 +1,3 @@
+A pragmatic and utilitarian view of species translocation as a tool in conservation biology
+We discuss the controversial issue of species translocation for conservation, i.e. the intentional moving of a species to a non-native area when the species is threatened by extinction in its native area. Based on an argument inspired by utilitarianism: "a conservation method is good when the number of global extinctions it prevents exceeds the number of global extinctions it causes", we identify and briefly discuss the answer to two critical research questions, and conclude that translocation has the potential to reduce net decline in global species diversity and therefore should be accepted more widely as a tool for conservation.
+10.1007/S10531-013-0504-6

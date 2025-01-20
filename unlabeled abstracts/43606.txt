@@ -1,0 +1,3 @@
+Introductions of Invasive Species: Failure of the Weaker Link
+The prevention of invasive species is modeled as a "weaker link" public good. Under the weaker link aggregation technology, individual contributions beyond the lowest level will provide benefits, but these benefits progressively decline as contributions exceed the minimum. A two-region model is constructed, assuming incomplete information concerning costs of provision. This framework allows us to explain why we observe underinvestment in prevention, how information facilitates efficiency, and under what conditions information is most relevant. Specific implications regarding improved invasive species prevention policy are extracted and discussed.
+10.1017/S1068280500010029

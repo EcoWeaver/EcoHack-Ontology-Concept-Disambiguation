@@ -1,0 +1,3 @@
+Mitochondrial Genome Sequences of Diorhabda carinata and Diorhabda carinulata , Two Beetle Species Introduced to North America for Biological Control
+We announce the complete circularized mitochondrial genome assemblies of Diorhabda carinata and Diorhabda carinulata , beetle species introduced to North America for the biological control of invasive shrubs of the genus Tamarix L. (Tamaricaceae). The assemblies (16,232 and 16,298 bp, respectively) each comprise 13 protein-coding genes, 22 tRNAs, two rRNAs, and a noncoding region.
+10.1128/MRA.00690-19

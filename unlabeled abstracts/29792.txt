@@ -1,0 +1,3 @@
+Complete plastid genome assembly of invasive plant, Centaurea diffusa
+New genomic tools are needed to elucidate the evolution of invasive, non-model organisms. Here we present the completed plastome assembly for the problematic invasive weed, Centaurea diffusa. This new tool represents a significant contribution to future studies of the ecological genomics of invasive plants, particularly this weedy genus, and studies of the Asteraceae in general.
+10.1101/005900

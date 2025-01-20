@@ -1,0 +1,3 @@
+A rapid molecular method to detect the invasive golden apple snail Pomacea canaliculata (Lamarck, 1822)
+The golden apple snail, Pomacea canaliculata has become a major agricultural and environmental pest across Asia. Here, using the mitochondrial cytochrome oxidase I as a diagnostic, we develop a multiplex PCR, that discriminates P. canaliculata from the most common non-invasive Pomacea species, thereby providing a fast and reliable diagnostic tool.
+10.1007/S12686-011-9599-9

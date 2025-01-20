@@ -1,0 +1,3 @@
+Correction to: Evaluation of machine learning methods for predicting eradication of aquatic invasive species
+Figure 6 was published incorrectly with an incorrect axis in the original publication. The correct version of Fig. 6 is provided in this correction.
+10.1007/S10530-018-1730-3

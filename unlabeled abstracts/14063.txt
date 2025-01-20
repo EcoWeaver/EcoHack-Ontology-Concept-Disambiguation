@@ -1,0 +1,3 @@
+A front-fixing numerical method for a free boundary nonlinear diffusion logistic population model
+The spatial-temporal spreading of a new invasive species in a habitat has interest in ecology and is modeled by a moving boundary diffusion logistic partial differential problem, where the moving boundary represents the unknown expanding front of the species. In this paper a front-fixing approach is applied in order to transform the original moving boundary problem into a fixed boundary one. A finite difference method preserving qualitative properties of the theoretical solution is proposed. Results are illustrated with numerical experiments.
+10.1016/J.CAM.2016.02.029

@@ -1,0 +1,3 @@
+Assessment of functional forms of crop yield loss models of invasive plant species applied in decision support tools and bioeconomic modelling
+Decision support tools (DSTs) for invasive species management have had limited success in producing convincing results and meeting users' expectations. The problems could be linked to the functional form of model which represents the dynamic relationship between the invasive species and crop yield loss in the DSTs. The objectives of this study were: a) to compile and review the models tested on field experiments and applied to DSTs; and b) to do an empirical evaluation of some popular models and alternatives.
+10.1016/J.AGSY.2015.04.001

@@ -1,0 +1,3 @@
+A METAPOPULATION MODEL FOR FERAL HOGS IN GREAT SMOKY MOUNTAINS NATIONAL PARK
+Feral Hogs (Sus scrofa) are an invasive species that have occupied the Great Smoky Mountains National Park since the early 1900s. Recent studies on vegetation, mast, and harvest history were important for our work. Using these data, a model with discrete time and space was formulated to represent the feral hog dynamics in the Park. Management strategies and key characteristics of the population were investigated. The model uses observed mast variation to help govern population dynamics and results indicate that Park control efforts have limited the growth of the population.
+10.1111/NRM.12080

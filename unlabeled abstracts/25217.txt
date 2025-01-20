@@ -1,0 +1,3 @@
+Documenting effects of urbanization on flora using herbarium records
+1. As human populations increasingly live in cities, urban floras and the ecosystem services they provide are under increasing threat. Understanding the effects of urbanization on plants can help to predict future changes and identify ways to preserve biological diversity. Relatively few studies document changes through time in the flora of a focal region and those that do primarily address European floras. They often rely on contemporary spatial gradient studies as surrogates for changes with time.
+10.1111/J.1365-2745.2011.01820.X

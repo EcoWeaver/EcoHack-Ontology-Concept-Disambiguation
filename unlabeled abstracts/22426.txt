@@ -1,0 +1,3 @@
+Stochastic Skellam model
+We consider the dynamics of a biological population described by the Fisher-Kolmogorov-Petrovskii-Piskunov (FKPP) equation in the case where the spatial domain consists of alternating favorable and adverse patches whose sizes are distributed randomly. For the one-dimensional case we define a stochastic analogue of the classical critical patch size. We address the issue of persistence of a population and we show that the minimum fraction of the length of favorable segments to the total length is always smaller in the stochastic case than in a periodic arrangement. In this sense, spatial stochasticity favors viability of a population.
+10.1016/J.PHYSA.2009.09.023

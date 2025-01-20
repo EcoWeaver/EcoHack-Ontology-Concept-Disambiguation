@@ -1,0 +1,3 @@
+Monitoring species abundance and distribution at the landscape scale
+1. The abundance and distribution of a species are affected by processes which operate at multiple scales. Large-scale dynamics are increasingly recognized in conservation responses such as metapopulation management, transfrontier protected areas and softening the agricultural matrix. Landscape-scale monitoring is needed both to inform and judge their efficacy. In this Special Profile we address some of the challenges presented by monitoring at the landscape scale, how models of species distribution can be used to inform policy, and we discuss how monitoring at the global-scale could be approached.
+10.1111/J.1365-2664.2010.01917.X

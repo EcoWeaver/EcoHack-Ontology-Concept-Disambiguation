@@ -1,0 +1,3 @@
+Biodiversity theory applied to the real world of ecological restoration
+One of the perceived benefits of biodiversity is resistance to invasion by exotic species. This has relevance for vegetation restoration: according to theory, sowing more species of the desired type would help to exclude the invasion of undesired ones. Oakley & Knox (Applied Vegetation Science, this issue) tested this in a real restoration situation: the revegetation of bare compacted clay after construction or commercial activity. Higher sown diversity did indeed reduce the invasion of non-sown species and, of particular practical relevance, reduced the invasion of exotic species.
+10.1111/AVSC.12008

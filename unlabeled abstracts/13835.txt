@@ -1,0 +1,3 @@
+Scale-specific spatial density dependence in parasitoids: a multi-factor meta-analysis
+1.Within a landscape, the risk of an insect being attacked by a parasitoid varies with the local density of the host species. This relationship should be strongest when observed at medium extents and resolutions with respect to the parasitoids' foraging range, and turn negative at fine resolutions. The relationship is also hypothesised to depend on certain traits of the host and parasitoid taxa - e.g. being more positive for more specialised hosts or parasitoids and more negative for mobile hosts or gregarious parasitoids. Building on earlier literature reviews, it is now possible to investigate these hypotheses using meta-analysis.
+10.1111/1365-2435.12627

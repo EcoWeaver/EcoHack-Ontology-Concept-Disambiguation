@@ -1,0 +1,3 @@
+Non-invasive genetic identification of small mammal species using real-time polymerase chain reaction.
+DNA identification of non-invasive samples is a potentially useful tool for monitoring small mammal species. Here we describe a novel method for identifying five small mammal species: wood mouse, bank vole, common shrew, pygmy shrew and water shrew. Species-specific real-time polymerase chain reaction primers were designed to amplify fragments of the mitochondrial cytochrome b gene from hair and scat samples. We also amplified nuclear DNA from scats, demonstrating their potential as a source of DNA for population genetic studies.
+10.1111/J.1755-0998.2008.02324.X

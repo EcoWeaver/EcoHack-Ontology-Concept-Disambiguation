@@ -1,0 +1,3 @@
+A game-theoretic model for punctuated equilibrium: species invasion and stasis through coevolution
+A general theory of coevolution is developed that combines the ecological effects of species' densities with the evolutionary effects of changing phenotypes. Our approach also treats the evolutionary changes between coevolving species with discreet traits after the appearance of a new species. We apply this approach to habitat selection models where new species first emerge through competitive selection in an isolated habitat. This successful invasion is quickly followed by evolutionary changes in behavior when this species discovers the other habitat, leading to punctuated equilibrium as the final outcome.
+10.1016/J.BIOSYSTEMS.2005.09.006

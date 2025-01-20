@@ -1,0 +1,3 @@
+Lionfish, Pterois volitans Linnaeus 1758, the complete mitochondrial DNA of an invasive species
+Abstract The lionfish, Pterois volitans, native from the Indo-Pacific, has been found in Atlantic and Caribbean waters and is considered as an invasive species. Here we sequence its mitogenome (Genbank accession number KJ739816), which has a total length of 16,500 bp, and the arrangement consist of 13 protein-coding genes, 2 ribosomal RNA (rRNA) genes and 22 transfer RNA similar to other Pteroinae subfamily (family Scorpaenidae). This mitogenome will be useful for phylogenetic and population genetic studies of this invasive species.
+10.3109/19401736.2014.953075

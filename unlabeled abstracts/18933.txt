@@ -1,0 +1,3 @@
+Predicting plant invasiveness from native range size: clues from the Kashmir Himalaya
+Aims In view of the growing interest in modelling the potential spread of invasive species, prediction of plant invasiveness on the basis of native range size holds considerable promise. Our objective was to use a simple model to evaluate whether a wider native range predisposes plant species to become invasive in non-native regions and to easily identify potential invaders on this basis. The Kashmir Himalayan alien flora, of which a large proportion is native to Europe, was used to test this model.
+10.1093/JPE/RTR021

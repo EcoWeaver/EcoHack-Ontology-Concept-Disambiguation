@@ -1,0 +1,3 @@
+Trees and shrubs as invasive alien species - 2013 update of the global database
+The global database of invasive trees and shrubs (Richardson & Rejmanek, 2011; Diversity Distrib. 17, 788-809) has been updated, resulting in a total of 751 species (434 trees and 317 shrubs) from 90 families. Ten originally listed species were deleted (synonyms, inconclusive identification, etc.) and 139 additional invasive species (86 trees and 53 shrubs) are now included in the database. For many species, new records on their adventive distributions are added. The updated database also includes the native ranges for all listed species.
+10.1111/DDI.12075

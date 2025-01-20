@@ -1,0 +1,3 @@
+The implications of variable or constant expansion rates in invasive weed infestations
+Data on the spread of invasive weeds into arid western lands are used to evaluate the environmental and economic importance of controlling invasive weed infestations early. Variable rate and constant rate infestation expansion paths are estimated. The implications of variable vs. constant infestation growth rates for projecting both biophysical and economic effects are illustrated. The projections derived from both constant and variable growth rate expansion paths support the contention that it is expedient to control new infestations early.
+10.1017/S0043174500090664

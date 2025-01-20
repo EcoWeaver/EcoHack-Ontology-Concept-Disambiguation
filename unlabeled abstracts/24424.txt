@@ -1,0 +1,3 @@
+Spatial-Temporal Model of Insect Growth, Diffusion and Derivative Pricing
+Insect derivatives represent an important innovation in specialty crop risk management. An active over-the-counter market in insect derivatives will require a transparent pricing method. This paper develops an econometric model of the spatio-temporal process underlying a particular insect population and develops a pricing model based on this process. We show that insect derivatives can play an important risk management role in mitigating B. tabaci (whitefly) damage in cotton. Beyond developing a new risk management instrument, the key methodological contribution of this paper lies in pricing derivatives with stochastic properties in both space and time dimensions.
+10.1111/J.1467-8276.2008.01170.X

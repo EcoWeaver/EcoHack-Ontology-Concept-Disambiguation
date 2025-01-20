@@ -1,0 +1,3 @@
+Allee effect and control of lake system invasion.
+We consider the model of invasion prevention in a system of lakes that are connected via traffic of recreational boats. It is shown that in presence of an Allee effect, the general optimal control problem can be reduced to a significantly simpler stationary optimization problem of optimal invasion stopping. We consider possible values of model parameters for zebra mussels. The general N-lake control problem has to be solved numerically, and we show a number of typical features of solutions: distribution of control efforts in space and optimal stopping configurations related with the clusters in lake connection structure.
+10.1007/S11538-008-9303-8

@@ -1,0 +1,3 @@
+Combining natal range distributions and phylogeny to resolve biogeographic uncertainties in balloon vines (Cardiospermum, Sapindaceae)
+A key aspect of effective invasive plant management is a clear understanding of natal ranges. In the balloon vine genus, Cardiospermum, uncertain native biogeographic ranges are hampering ongoing biological control efforts against invasive taxa in southern Africa. With the objective of minimizing non-target impacts, which are a major concern for conservation, we combine phylogenetic analyses with known native range distributions of selected Cardiospermum species to resolve unknown natal ranges for globally widespread balloon vines which occur in southern Africa.
+10.1111/DDI.12261

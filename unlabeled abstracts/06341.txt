@@ -1,0 +1,3 @@
+Spatio-temporal modeling of the invasive potential of wild boar--a conflict-prone species-using multi-source citizen science data
+Denmark was considered not to have an established population of free-ranging wild boar. Today, sporadic observations of wild boar challenge that view. Due to its reservoir role for economic devastating swine diseases, wild boar represents a potential threat for Denmark's position as a large pig- and pork-exporting country. This study assessed the prospects of wild boar invasion in Denmark.
+10.1016/J.PREVETMED.2015.12.017

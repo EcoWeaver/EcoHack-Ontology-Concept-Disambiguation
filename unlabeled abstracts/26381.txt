@@ -1,0 +1,3 @@
+Isolation and characterization of polymorphic microsatellites from Chinese mitten crab, Eriocheir sinensis
+Chinese mitten crab (Eriocheir sinensis) has great commercial significance in Asia, but is an invasive organism in Europe and America. We isolated five novel microsatellites for E. sinensis. All five loci were polymorphic. The average allele number was 16.8 per locus with a range of 13 to 21, while the expected heterozygosity ranged from 0.82 to 0.91 with an average of 0.88. These markers could be applicable to studies of the genetic diversity and population structure of E. sinensis.
+10.1111/J.1471-8286.2006.01363.X

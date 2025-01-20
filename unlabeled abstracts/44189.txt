@@ -1,0 +1,3 @@
+Biological invasions: theory and practice
+Reviews biological invasion theory, with a strong slant towards mathematical analysis (especially using the diffusion equation).
+10.5860/CHOICE.35-3840

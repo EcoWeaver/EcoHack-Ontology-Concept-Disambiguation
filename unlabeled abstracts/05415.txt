@@ -1,0 +1,3 @@
+Shell Biofilm Nitrification and Gut Denitrification Contribute to Emission of Nitrous Oxide by the Invasive Freshwater Mussel Dreissena polymorpha (Zebra Mussel)
+ABSTRACT Nitrification in shell biofilms and denitrification in the gut of the animal accounted for N 2 O emission by Dreissena polymorpha (Bivalvia), as shown by gas chromatography and gene expression analysis. The mussel's ammonium excretion was sufficient to sustain N 2 O production and thus potentially uncouples invertebrate N 2 O production from environmental N concentrations.
+10.1128/AEM.00401-12

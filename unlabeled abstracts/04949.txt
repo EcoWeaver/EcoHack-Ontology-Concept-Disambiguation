@@ -1,0 +1,3 @@
+Prospects for an Invasion: Competition Between Aedes albopictus and Native Aedes triseriatus
+Competition between larval populations of the native North American treehole mosquito Aedes triseriatus and Aedes albopictus, recently introduced from Asia to North America, was assessed by comparing per capita growth rate estimates for experimental cohorts of larvae developing under a variety of initial density combinations in fluid obtained from tires or from treeholes. Estimates of carrying capacities and competition coefficients indicate that competition between the two species will result in stable coexistence in treehole communities but local extinction of A. triseriatus in tire habitats.
+10.1126/SCIENCE.1853204

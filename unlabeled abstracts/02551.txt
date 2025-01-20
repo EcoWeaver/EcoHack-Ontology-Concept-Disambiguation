@@ -1,0 +1,3 @@
+Long-term surveillance data and patterns of invasion by Aedes albopictus in Florida
+We used geographic information system (GIS) and long-term mosquito surveillance data from Lake, Pasco, Manatee, and Sarasota Counties, FL, to look at patterns of invasion by Aedes albopictus and concurrent changes in resident Ae. aegypti. We investigated environmental factors associated with population changes in these species with the use of satellite climate data. Aedes aegypti densities attenuated rapidly following the arrival of Ae. albopictus in most counties, yet both species persisted in equilibrium in Manatee County. We discuss the relative importance of rainfall, habitat, and proximity to urban areas in the population dynamics of these species in sympatry.
+10.2987/5594.1

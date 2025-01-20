@@ -1,0 +1,3 @@
+Optimal renewable resource management in the presence of endogenous risk of invasion.
+In this paper we examine the optimal management of a renewable resource that is at risk from alien species invasion. The objective of this paper is to derive implications for optimal management of a resource when options exist for both preventing the arrival of an invasive species and mitigating the impact of that arrival. Uncertainty about the timing and nature of an invasion can have important implications for the choice of management strategy, and a key feature of this analysis is an explicit treatment of that uncertainty.
+10.1016/J.JENVMAN.2007.05.022

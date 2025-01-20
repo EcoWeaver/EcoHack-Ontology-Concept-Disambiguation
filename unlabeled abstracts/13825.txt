@@ -1,0 +1,3 @@
+An environmental DNA assay for detecting Arctic grayling in the upper Missouri River basin, North America
+The upper Missouri River basin in the northwestern US contains disjunct Arctic grayling (Thymallus arcticus) populations of conservation concern. To assist efforts aimed at understanding Artic grayling distribution, we developed a quantitative PCR assay to detect the presence of Arctic grayling DNA in environmental samples. The assay amplified low concentrations of Arctic grayling DNA consistently, and did not amplify non-target species, including sympatric salmonid fishes. (c) 2016, Springer Science+Business Media Dordrecht (outside the USA).
+10.1007/S12686-016-0531-1

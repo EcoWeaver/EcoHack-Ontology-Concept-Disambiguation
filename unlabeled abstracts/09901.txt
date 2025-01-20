@@ -1,0 +1,3 @@
+A set of primers for plastid indels and nuclear microsatellites in the invasive plant Heracleum mantegazzianum (Apiaceae) and their transferability to Heracleum sphondylium
+This study reports the isolation and polymorphism characterization of four plastid indels and six nuclear microsatellite loci in the invasive plant Heracleum mantegazzianum. These markers were tested in 27 individuals from two distant H. mantegazzianum populations. Plastid indels revealed the presence of five chlorotypes while five nuclear microsatellite loci rendered polymorphism. Applications of these markers include population genetics and phylogeography of H. mantegazzianum. A very good transferability of markers to Heracleum sphondylium was demonstrated.
+10.1111/J.1471-8286.2007.01911.X

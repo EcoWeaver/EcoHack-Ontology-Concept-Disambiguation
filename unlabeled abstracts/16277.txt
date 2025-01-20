@@ -1,0 +1,3 @@
+Space to invade? Comparative range infilling and potential range of invasive and native plants
+Our understanding of potential ranges for native and non-native species is often based on their current geographic distributions. Non-native species have had less time than co-occurring native species to expand their ranges following introduction, so non-native ranges may under-represent suitable conditions. Therefore it is often assumed that species distribution models will predict disproportionately smaller potential ranges for non-natives than natives. We compare the distributions of native, endemic, alien and invasive plants to determine how the different range attributes of these groups might influence ecological forecasting.
+10.1111/GEB.12275

@@ -1,0 +1,3 @@
+Soil microbial community structure of range-expanding plant species differs from co-occurring natives
+Due to global warming and other changes in the environment, many native and exotic plant species show range expansion from lower to higher latitudes. In the new range, the (in)ability of range-expanding plants to establish associations with local soil microbes can have important consequences for plant abundance; however, very little information exists on rhizosphere communities of range-expanding plant species. Here, we examine the rhizosphere microbial community composition of range-expanding plant species in comparison with phylogenetically related species that are native in the invaded range.
+10.1111/1365-2745.12117

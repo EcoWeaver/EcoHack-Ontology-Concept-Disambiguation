@@ -1,0 +1,3 @@
+Isolation and characterization of polymorphic microsatellite loci for Imperata cylindrica, an invasive perennial grass
+Cogongrass (Imperata cylindrica) is an invasive perennial grass widely distributed in the world, and two ecotypes (C-type and E-type) are found in Japan. We isolated and characterized eight microsatellite loci from the two ecotypes. The number of alleles ranged from 4 to 12 in C-type, 1 to 7 in E-type and 4 to 12 in the hybrid between them. The range of expected heterozygosities was 0.561-0.910 in C-type, 0.000-0.823 in E-type and 0.541-0.918 in the hybrid. These markers will be useful for investigating expansion process, natural hybridization between two ecotypes and reproductive strategy of this weed.
+10.1007/S12686-009-9031-X

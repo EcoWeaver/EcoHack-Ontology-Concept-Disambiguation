@@ -1,0 +1,3 @@
+Host Cell Signaling and Trypanosoma cruzi Invasion: Do All Roads Lead to Lysosomes?
+Trypanosoma cruzi , the protozoan parasite that causes Chagas' disease in humans, is capable of invading and replicating within a wide variety of nucleated mammalian cell types. Host cell invasion by infective T. cruzi trypomastigotes is governed by parasite-triggered activation of host cell signaling pathways. Recent studies highlighting a role for host cell phosphatidylinositol 3-kinases (PI3Ks) in the T. cruzi invasion process have revealed surprising new insights into the mechanism of host cell invasion by this pathogen. In this Perspective, we discuss these findings and propose alternative models of T. cruzi invasion that incorporate this new information.
+10.1126/STKE.2932005PE36

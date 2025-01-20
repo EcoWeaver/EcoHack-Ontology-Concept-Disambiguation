@@ -1,0 +1,3 @@
+What can mathematical modeling tell us about hybrid invasions?
+Compared to the vast theoretical literature on the dynamics of single species invasions, relatively few models have dealt with the emergence of invasive hybrids. Here, we review the variety of modeling approaches that have been used to study the dynamics of hybridization, outlining the underlying assumptions and highlighting their advantages and disadvantages. We summarize the predicted outcomes for the persistence for the native species and the resulting genetic composition of the native-exotic-hybrid complex under a variety of model scenarios. We highlight promising future directions for theoretical investigation and its integration with experimental studies.
+10.1007/S10530-008-9387-Y

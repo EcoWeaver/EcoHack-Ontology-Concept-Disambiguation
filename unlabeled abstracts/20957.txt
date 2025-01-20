@@ -1,0 +1,3 @@
+The Optimal Time to Remove Quarantine Bans Under Uncertainty: The Case of Australian Bananas*
+Import restrictions on biological materials are used widely as protection against exotic invasive pests and pathogens. While a scientific risk assessment is needed to justify an import ban under the WTO SPS Agreement, economics plays little role in determining the choice of import regime. Using a real option framework, we model the uncertain and irreversible costs from lifting an import ban and derive decision rules about the optimal timing, when ex ante research and development yields positive but uncertain benefits. The insights gained are applied to Australia's current import policy for bananas.
+10.1111/J.1475-4932.2010.00690.X

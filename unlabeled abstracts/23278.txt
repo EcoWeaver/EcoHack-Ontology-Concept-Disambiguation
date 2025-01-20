@@ -1,0 +1,3 @@
+Hotspots of plant invasion predicted by propagule pressure and ecosystem characteristics
+Aim Biological invasions pose a major conservation threat and are occurring at an unprecedented rate. Disproportionate levels of invasion across the landscape indicate that propagule pressure and ecosystem characteristics can mediate invasion success. However, most invasion predictions relate to species' characteristics (invasiveness) and habitat requirements. Given myriad invaders and the inability to generalize from single-species studies, more general predictions about invasion are required. We present a simple new method for characterizing and predicting landscape susceptibility to invasion that is not species-specific.
+10.1111/J.1472-4642.2011.00794.X

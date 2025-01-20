@@ -1,0 +1,3 @@
+Technologies for ballast water treatment: a review
+Invasive aquatic species discharged through ballast water is one of the most serious problems posed nowadays in the marine environment. This review paper summarizes the available technologies applied for ballast water treatment. These technologies can be either port-based or ship-based, with the latter being easier to implement. Special emphasis was given to onboard treatment methods, which can be categorized as physical separation, mechanical or chemical methods. The efficiency of the methods, as well as the capacity of application and the target microorganisms were compiled and are presented in this review. Copyright (c) 2009 Society of Chemical Industry
+10.1002/JCTB.2276

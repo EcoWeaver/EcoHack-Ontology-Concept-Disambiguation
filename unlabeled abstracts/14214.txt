@@ -1,0 +1,3 @@
+Beta diversity of urban floras among European and non-European cities
+Cities represent an ideal study system for assessing how intensive land-use change and biotic interchange have altered beta diversity at broad geographic extents. Here we test the hypothesis that floras in cities located in disparate regions of the globe are being homogenized by species classified as invasive (naturalized species that have spread over a large area) or as a European archaeophyte (species introduced into Europe before ad 1500 from the Mediterranean Basin). We also test the prediction that the global influences of European activities (colonization, agriculture, commerce) have supported this outcome.
+10.1111/GEB.12159

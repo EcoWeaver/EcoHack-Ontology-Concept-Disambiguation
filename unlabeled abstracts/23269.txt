@@ -1,0 +1,3 @@
+Mechanisms of Phragmites australis invasion: feedbacks among genetic diversity, nutrients, and sexual reproduction
+1. A fundamental challenge to invasion ecology is to determine what factors cause an exotic species to spread rapidly long after the initial introduction. The increase of a resource (e.g. nitrogen) could trigger an expansion, but in other instances, species have overcome biological limitations (e.g. an Allee effect) like accumulating sufficient genetic diversity for successful reproduction. Understanding the ecological mechanisms governing plant invasions, such as nutrient enrichment or Allee effects, can be used to improve invasive plant management.
+10.1111/J.1365-2664.2011.02024.X

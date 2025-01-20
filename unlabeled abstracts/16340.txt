@@ -1,0 +1,3 @@
+Native-range habitats of invasive plants: are they similar to invaded-range habitats and do they differ according to the geographical direction of invasion?
+Habitat types are involved in shaping biological traits of their resident native species and thus they determine, to a large extent, in which habitats particular species will succeed if invading outside their native range. However, the correspondences between habitats that invasive aliens occupy in the native and invaded ranges are poorly known. We explore the relationships between (1) habitats of invasive species in their native and invaded ranges and (2) native-range habitats and the direction of invasion (from/to Europe; from/to the Old World).
+10.1111/DDI.12269

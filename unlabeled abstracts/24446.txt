@@ -1,0 +1,3 @@
+A second look at managing import risk from invasive species
+This paper investigates optimal trade-related policies for managing import risk arising from invasive species. We find analytical evidence that when a cleaning technology is available for foreign exporters and the optimal level of import inspections is strictly positive, a penalty imposed on contaminated imports is likely to be superior to a simple tariff policy designed to reduce the overall volume of trade, for low levels of the inspection cost. The first-best policy involves a two-part tariff composed of a penalty levied on contaminated units to internalize the invasive species externality, plus a fee collected on all imported units to cover inspection costs.
+10.1016/J.JEEM.2008.02.002

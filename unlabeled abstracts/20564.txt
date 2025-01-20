@@ -1,0 +1,3 @@
+A dominance-based approach to map risks of ecological invasions in the presence of severe uncertainty
+Aim Uncertainty has been widely recognized as one of the most critical issues in predicting the expansion of ecological invasions. The uncertainty associated with the introduction and spread of invasive organisms influences how pest management decision makers respond to expanding incursions. We present a model-based approach to map risk of ecological invasions that combines two potentially conflicting goals: (1) estimating the likelihood of a new organism being established at a given locale and (2) quantifying the uncertainty of that prediction.
+10.1111/J.1472-4642.2011.00848.X

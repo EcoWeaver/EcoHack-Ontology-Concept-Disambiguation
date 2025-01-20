@@ -1,0 +1,3 @@
+Seed release in a changing climate: initiation of movement increases spread of an invasive species under simulated climate warming
+Reliable estimates of how species will move under future climatic conditions are lacking, and the ability of species to track suitable habitat under climate change is strongly predicated on dispersal. In wind-dispersed plants, initiation of movement by maternal seed release characteristics can affect the ultimate shape of the dispersal kernel. If seed dispersal traits respond to altered local abiotic conditions induced by climate change during development, the effects could have major impacts on projections of future population spread.
+10.1111/DDI.12436

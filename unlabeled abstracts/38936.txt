@@ -1,0 +1,3 @@
+Current Status of Invasive Disturbance Species and Its Habitat Characteristics in Urban Forest
+An invasive disturbance species has caused harm to biodiversity and ecosystem. To address the issue, identifying the characteristics of a habitat for invasive disturbance species is considered for forest management. This study analyzed a status of plant species by field survey based on belt transect method in the capital areas and established a predictive model for invasive disturbance species by logistic regression. As results of the study, the number of herb, vine, and invasive disturbance species and a canopy cover of tree would decrease from the forest edge to core areas (p
+10.13087/KOSERT.2016.19.3.93

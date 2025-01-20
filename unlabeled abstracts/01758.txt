@@ -1,0 +1,3 @@
+A comment on the role of propagule pressure in the establishment success of introduced birds
+In a recent paper, Cassey et al. (Oecologia 175: 417-428, 2014) presented a population model of establishment success among birds introduced to New Zealand. They found that net reproductive rate was more important than propagule pressure in three separate cases involving species that reflect life history type of three avian types. Although Cassey et al. (Oecologia 175: 417-428, 2014) claim this result was unexpected, in fact it supports previous studies that have questioned the role of propagule pressure in determining introduction outcomes.
+10.1007/S00442-014-3184-3

@@ -1,0 +1,3 @@
+Technology Adoption Against Invasive Species
+This article looks at technology adoption in agriculture that is specifically targeted against invasive species. The analysis involves predicting the long-term distribution of technology choices when technology can be adopted and disadopted based on current and expected agricultural profits influenced by pest infestation. The theoretical analysis is based on an extension of two authors' findings in 1993 and incorporates the possibility that psychological factors, such as complacency, have a significant impact on technology adoption and hence disease establishment. An empirical application is performed for soybean rust.
+10.1017/S1074070800028935

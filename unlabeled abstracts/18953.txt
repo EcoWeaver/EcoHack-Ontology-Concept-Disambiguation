@@ -1,0 +1,3 @@
+Development of novel microsatellite markers for the invasive Northern Pacific seastar, Asterias amurensis
+The Northern Pacific seastar, Asterias amurensis, is a benthic marine predator, which has recently established several invasive populations in Australian waters. To investigate population structure, diversity and patterns of connectivity, we isolated and characterised 27 microsatellite loci and tested their polymorphism based on 46 individuals from two invasive populations. The mean allelic richness was 4.33; observed heterozygosity was 0.42, while the percentage of polymorphic loci was 92.6%. The polymorphic markers will prove useful in the assessment of population genetic parameters, in both invasive and native A. amurensis populations.
+10.1007/S12686-011-9539-8

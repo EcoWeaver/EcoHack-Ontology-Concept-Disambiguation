@@ -1,0 +1,3 @@
+Florida Wetland Condition Index for depressional forested wetlands
+Increasingly in the last decade biological monitoring and assessment have been used by federal and state agencies to assess water quality standards as required under the Clean Water Act. These efforts have led to the development of indices of biological integrity (often referred to as IBIs). Many states have created multi-metric indices, incorporating individual metrics into a quantitative value of community condition or biological integrity. The primary objective of this study was to develop the Florida Wetland Condition Index (FWCI) as a tool to evaluate the biological integrity of Florida depressional freshwater forested wetlands.
+10.1016/J.ECOLIND.2005.03.013

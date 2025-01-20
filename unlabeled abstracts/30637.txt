@@ -1,0 +1,3 @@
+Spatial heterogeneity across five rangelands managed with pyric-herbivory
+1. Many rangelands evolved under an interactive disturbance regime in which grazers respond to the spatial pattern of fire and create a patchy, heterogeneous landscape. Spatially heterogeneous fire and grazing create heterogeneity in vegetation structure at the landscape level (patch contrast) and increase rangeland biodiversity. We analysed five experiments comparing spatially heterogeneous fire treatments to spatially homogeneous fire treatments on grazed rangeland along a precipitation gradient in the North American Great Plains.
+10.1111/J.1365-2664.2012.02168.X

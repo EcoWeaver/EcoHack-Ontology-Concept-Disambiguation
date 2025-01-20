@@ -1,0 +1,3 @@
+Climate anomalies provide opportunities for large-scale mapping of non-native plant abundance in desert grasslands
+Aim Native plant communities are susceptible to climate anomalies, which would favour the invasion of non-native species. However, climate anomalies may also provide opportunities for detecting non-native plants at a regional scale using remote sensing. Based on this mechanism, we propose a direct and effective remote sensing approach to map the abundance of South African Eragrostis lehmanniana Nees (Lehmann lovegrass), a highly invasive, non-native plant in the desert grasslands of southwestern North America.
+10.1111/J.1472-4642.2008.00500.X

@@ -1,0 +1,3 @@
+Pathogens can Slow Down or Reverse Invasion Fronts of their Hosts
+Infectious diseases are often regarded as possible explanations for the sudden collapse of biological invasions. This phenomenon is characterized by a host species, which firstly can successfully establish in a non-native habitat, but then spontaneously disappears again. This study proposes a reaction-diffusion model consisting of a simple SI disease with vital dynamics of Allee effect type. By way of travelling wave analysis, conditions are derived under which the invasion of the host population is slowed down, stopped or reversed as a consequence of a subsequently introduced disease. Hence, pathogens can dramatically control the rate of spread of invasive species.
+10.1007/S10530-005-5215-9

@@ -1,0 +1,3 @@
+Dynamic coexistence of sexual and asexual invasion fronts in a system of integro-difference equations
+The role of long-range dispersal in the coexistence of sexual and asexual relatives in a population of hermaphrodite flowering plants is investigated. In these populations, growth and reproduction often occur during a sedentary stage that is then followed by dispersal of propagules. These two stages are clearly distinguishable and show strong seasonality. A modeling approach that accurately describes this kind of dynamics of mixed populations is a system of two nonlinear integro-difference equations. It is shown that this kind of model can accommodate coexistence of the two different reproductive types.
+10.1007/S11538-009-9416-8

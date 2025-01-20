@@ -1,0 +1,3 @@
+Erratum to: The whole genome sequence of the Mediterranean fruit fly, Ceratitis capitata (Wiedemann), reveals insights into the biology and adaptive evolution of a highly invasive pest species
+After publication of our recent article [1] we noticed that Monica Munoz-Torres had been omitted from the author list. We have now added her, and the updated Funding and Authors' contributions sections are below.
+10.1186/S13059-017-1155-9

@@ -1,0 +1,3 @@
+Remote Sensing in Invasive Species Detection and Monitoring
+Invasive species can negatively influence the environment, economy and human health, so their early detection and monitoring are very important. Traditional field survey methods are being replaced by more efficient, and cheaper methods such as remote sensing methods. The present review summarises different methods for aerial surveys and invasive species on which those are tested.
+10.19080/IJESNR.2021.29.556255

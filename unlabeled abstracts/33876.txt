@@ -1,0 +1,3 @@
+Local adaptation of invasive plant, Synedrella nodiflora, in urban tropical lowland landscape Universitas Indonesia
+Synedrella nodiflora is an invasive species originated from tropical America and now has spread throughout Indonesia. We analysed the ability of Synedrella nodiflora from the level of HSP70 gene expression at different heat stress in urban tropical lowland landscape Universitas Indonesia. We used the qPCR to quantify the level of HSP70 gene expression and analysed using Pfaffl model. We found the level of HSP70 gene expression got higher related to elevated temperature from 29oC to 39oC with a range of fold from 123.1 to 1676.9. This ability reflects the adaptive plasticity of Synedrella nodiflora in the course of the invasion process.
+10.22146/JTBB.64622

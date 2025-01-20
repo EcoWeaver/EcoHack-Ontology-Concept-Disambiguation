@@ -1,0 +1,3 @@
+Erratum to: Quantifying how acquired interactions with native and invasive insects influence population growth rates of a non-indigenous plant
+The original version of the article unfortunately contained an error in Figure 1. The arrow pointing from the native weevil (Stethobaris polita) to the invasive ant (Solenopsis invicta) should be in reverse. Invasive ants attack native weevils, preventing them from feeding on flowers and ovipositing in fruits (see corrected Fig. 1). The caption of the figure remains unchanged.
+10.1007/S10530-016-1337-5

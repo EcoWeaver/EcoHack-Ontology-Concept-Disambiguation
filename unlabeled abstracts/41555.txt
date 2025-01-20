@@ -1,0 +1,3 @@
+The complete chloroplast genome of the invasive plant Senecio vulgaris L. (Asteraceae)
+Senecio vulgaris is an annual or biennial invasive weed. The complete chloroplast is 150,806 bp in length, containing a large single-copy region of 82,950 bp and a small single-copy region of 18,214 bp. It encodes a set of 113 genes, consisting of 79 protein-coding, 30 tRNA, and 4 rRNA genes. 14 genes (atpF, ndhA, ndhB, petB, petD, rpl2, rps12, rps16, trnA-UGC, trnG-UCC, trnI-GAU, trnK-UUU, trnL-UAA and trnV-UAC) have a single intron, and two genes (clpP and ycf3) possess double introns. Phylogenetic analysis confirmed that the cp genome of S. vulgaris is closely related to that of Jacobaea vulgaris.
+10.1080/23802359.2019.1612295

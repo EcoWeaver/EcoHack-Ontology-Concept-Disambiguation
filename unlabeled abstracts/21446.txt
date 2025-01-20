@@ -1,0 +1,3 @@
+A forest pathogen drives change in plant functional trait composition in the Southwest Australian Floristic Region
+Plant functional traits weighted by cover-abundance have been used to measure change across a wide range of temperature, moisture and grazing gradients. We use this approach along a chronosequence of disease infestation (Phytophthora cinnamomi) in the species-diverse Banksia woodlands of the Southwest Australian Floristic Region (SWAFR). We compare the use of absolute (community-weighted totals-CWT) and relative cover data (community-weighted means-CWM) to demonstrate the importance of total cover change in reference to the Mass Ratio Hypothesis.
+10.1016/J.AGEE.2010.11.004

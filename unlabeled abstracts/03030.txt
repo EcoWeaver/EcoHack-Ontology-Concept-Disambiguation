@@ -1,0 +1,3 @@
+Genome Sequence of Fusarium Isolate MYA-4552 from the Midgut of Anoplophora glabripennis , an Invasive, Wood-Boring Beetle
+ABSTRACT The Fusarium solani species complex (FSSC) is a clade of environmentally ubiquitous fungi that includes plant, animal, and insect associates. Here, we report the draft genome sequence of the undescribed species FSSC 6 (isolate MYA-4552), housed in the gut of the wood-boring cerambycid beetle Anoplophora glabripennis .
+10.1128/GENOMEA.00544-16

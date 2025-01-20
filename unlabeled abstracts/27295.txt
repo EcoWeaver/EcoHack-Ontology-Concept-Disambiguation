@@ -1,0 +1,3 @@
+Introduced species as evolutionary traps
+Invasive species can alter environments in such a way that normal behavioural decision making rules of native species are no longer adaptive. The evolutionary trap concept provides a useful framework for predicting and managing the impact of harmful invasive species. We discuss how native species can respond to changes in their selective regime via evolution or learning. We also propose novel management strategies to promote the long-term co-existence of native and introduced species in cases where the eradication of the latter is either economically or biologically unrealistic.
+10.1111/J.1461-0248.2005.00730.X

@@ -1,0 +1,3 @@
+Complete mitochondrial genome of Schlegel's Japanese gecko Gekko japonicus (Squamata: Gekkonidae).
+We have determined the complete mitochondrial genome of Gekko japonicus, whose status as an endemic or invasive species is currently under debate in Korea. The total genome size is 16 544 bp and consists of 13 protein-coding genes, 2 rRNA (12S and 16S RNA) genes, 22 tRNAs and 2 non-coding regions. The A + T content of the genome is 55.8% (A, 31.2%; C, 29.4%; T, 24.6%; G, 14.9%). Phylogenetic analysis shows that G. japonicus has a close phylogenetic relationship with both G. swinhonis and G. chinensis. Our result will facilitate further genetic studies of this species to ascertain its species status.
+10.3109/19401736.2015.1079855

@@ -1,0 +1,3 @@
+Range expansion pattern of Carabus granulatus Linnaeus, 1758 (Coleoptera: Carabidae) in eastern North America and a new northern range record
+This paper reports the first record of Carabus granulatus L. from Moosonee, Ontario. The record extends the range of the species northward in Ontario by approximately 200 km. Carabus granulatus was first introduced into North America in 1890 from Europe. The historic area of C. granulatus in North America was plotted against year. The square root of area occupied by C. granulatus was linear over time (R2 = 0.96, a type 1 expansion curve) a pattern associated with expansion driven by neighbourhood diffusion.
+10.3391/BIR.2017.6.1.03

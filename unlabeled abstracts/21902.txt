@@ -1,0 +1,3 @@
+Convergence of fish communities from the littoral zone of reservoirs
+1. Understanding factors that regulate the assembly of communities is a main focus of ecology. Human-engineered habitats, such as reservoirs, may provide insight into these assembly processes because they represent novel habitats that are subjected to colonization by fishes from the surrounding river basin or transported by humans. By contrasting community similarity within and among reservoirs from different drainage basins to nearby stream communities, we can test the relative constraints of reservoir habitats and regional species pools in determining species composition of reservoirs.
+10.1111/J.1365-2427.2008.02162.X

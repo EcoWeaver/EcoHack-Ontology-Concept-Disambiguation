@@ -1,0 +1,3 @@
+Isolation of polymorphic microsatellite loci for the marine invader Microcosmus squamiger (Ascidiacea).
+The ascidian Microcosmus squamiger is native to Australia and has recently spread worldwide. It has become a pest in some littoral communities within its introduced range. An enriched genomic library of M. squamiger resulted in a total of eight polymorphic loci that were genotyped in 20 individuals from a population within its introduced range, and 20 individuals more from a native population. The mean number of alleles per locus was 5.33 and mean observed heterozygosity was 0.432. No significant linkage disequilibrium was found among loci pairs. Significant genetic differentiation was observed between populations.
+10.1111/J.1755-0998.2008.02311.X

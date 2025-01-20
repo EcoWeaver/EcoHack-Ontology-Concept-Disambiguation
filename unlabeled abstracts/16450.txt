@@ -1,0 +1,3 @@
+Spatial Dynamics of an Age-Structured Population Model of Asian Clams
+Asian clam (Corbicula fluminea) is one of the most important nonnative aquatic invasive species in the freshwater ecosystem of North America, rapidly spreading in lakes, canals, streams, and rivers. This species has remarkably distinct mobility patterns in different phases of its life cycle. We formulate a novel mathematical model, in the form of nonlocal delayed partial differential equations, to calculate and characterize the invasion speed, and show that the invasion speed coincides with the minimal speed of traveling wave fronts.
+10.1137/130930273

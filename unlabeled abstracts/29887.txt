@@ -1,0 +1,3 @@
+A guide to calculating discrete-time invasion rates from data
+One measure of biological invasiveness is the rate at which an established invader will spread spatially in its new environment. Slow spread signifies slow increase in ecological impact, whereas fast spread signifies the converse. If one can predict spread rates from life history attributes, such as growth rates and dispersal distances, then potential invasiveness can be assessed before the invasion occurs.
+10.1007/1-4020-4925-0_8

@@ -1,0 +1,3 @@
+Non-invasive methods to measure inter-renal function in aquatic salamanders--correlating fecal corticosterone to the environmental and physiologic conditions of captive Necturus
+We measured faecal corticosterone metabolites (fCMs) in aquatic salamander Necturus to understand how inter-renal function changes throughout seasonal environmental changes and associated reproductive activity. fCMs elevated with lower water temperatures and breeding activity. To overcome some challenges associated with faecal hormone collection/analysis, waterborne corticosterone (wCM) was validated through ACTH challenge.
+10.1093/CONPHYS/COZ074

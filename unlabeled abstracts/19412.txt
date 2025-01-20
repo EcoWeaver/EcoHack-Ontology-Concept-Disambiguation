@@ -1,0 +1,3 @@
+Length-weight and length-length relationships for common fish and crayfish species in the Everglades, Florida, USA
+Length-weight and length-length relationships are reported for 18 species of fish and two species of crayfish within the Everglades, FL, USA. This study provides updated relationships for native species, as well as initial relationships for established exotic species in this region. Additionally, 14 length-weight and two length-length relationships are presented to FishBase for the first time.
+10.1111/JAI.12406

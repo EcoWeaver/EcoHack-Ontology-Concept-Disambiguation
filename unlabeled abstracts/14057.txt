@@ -1,0 +1,3 @@
+Traits of an invasive grass conferring an early growth advantage over native grasses
+Aims Invasive species often have higher relative growth rates (RGR) than their native counterparts. Nutrient use efficiency, total leaf area and specific leaf area (SLA) are traits that may confer RGR differences between natives and invasives, but trait differences are less prominent when the invasive species belongs to the same plant functional type as the dominant native species. Here, we test if traits displayed soon after germination confer an early size advantage. Specifically, we predicted that invasive species seedlings grow faster than the natives because they lack trade-offs that more strongly constrain the growth of native species.
+10.1093/JPE/RTW014

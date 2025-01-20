@@ -1,0 +1,3 @@
+Controlling Dispersal Dynamics of Aedes aegypti
+The dengue virus is transmitted in regions previously infested with the mosquito Aedes aegypti. To assess the spreading and establishment of the dengue disease vector, a mathematical model is developed that takes into account the diffusion and advection phenomena. A discrete model based on the cellular automata approach, which is a good framework to deal with small populations, is also developed to be compared with the continuous modeling.
+10.1080/08898480600950515

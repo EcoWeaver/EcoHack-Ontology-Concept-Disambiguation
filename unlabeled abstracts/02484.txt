@@ -1,0 +1,3 @@
+Disturbance is the key to plant invasions in cold environments
+Significance This work provides a complete experimental answer to the longstanding question of which local factors determine the success (i.e., establishment, growth, and flowering) of common nonnative plant invaders at their coldest physiological limits. Using a multifactorial seed-addition experiment along repeated elevational gradients in two sub(ant)arctic mountain regions, we pinpoint the relative contribution of all main candidate determinants: temperature, disturbance, nutrient addition, and propagule pressure. We warn that climate change and direct human disturbances will together result in increased plant invasion in cold-climate ecosystems in the near future.
+10.1073/PNAS.1608980113

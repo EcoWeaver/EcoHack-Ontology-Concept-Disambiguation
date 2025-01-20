@@ -1,0 +1,3 @@
+NAFTA and member country strategies for maritime trade and marine invasive species.
+Maritime shipping has two vectors of spreading marine invasive species: ballast water inside the ship and biofouling on the hulls outside the ship. While some attention has focused on ballast water, virtually none is focused on biofouling. This paper offers a quantitative analysis of economic incentives for shippers and regulating ports to address both pollution vectors. The strategies to address the vectors are induced by incentive mechanisms involving liability, subsidies and taxes. Results show these offer ample incentives in order to truly foster abatement of both vectors. Data from North America's Pacific coast is included in the analysis.
+10.1016/J.JENVMAN.2007.06.016

@@ -1,0 +1,3 @@
+PRIMER NOTE: Eleven microsatellite loci in the sociobiologically enigmatic ant Lasius austriacus (Hymenoptera: Formicidae)
+We describe the isolation and characterization of 11 microsatellite loci in the sociobiologically enigmatic ant Lasius austriacus. The polymerase chain reaction primers were tested on a population in East Austria. The number of alleles ranged from four to 19 and the observed heterozygosity from 0.200 to 0.900. Cross-species amplification tests were performed, with some loci polymorphic in all species tested, for the closely related invasive species Lasius neglectus, three further Lasius species, another formicine, Formica polyctena, and the invasive myrmicine species Tetramorium tsushimae.
+10.1111/J.1471-8286.2006.01633.X

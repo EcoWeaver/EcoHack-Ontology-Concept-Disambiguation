@@ -1,0 +1,3 @@
+Accounting for recorder effort in the detection of range shifts from historical data
+1. Climate-induced range shifts have been detected in a large number of plant and animal taxa and a significant portion of these shifts have been found using records collected over a long period of time. However, the absence of standardized collecting procedures in some historical data sets introduces bias and skew into the data which can result in misleading conclusions. A range of different methods has been employed to account for this heterogeneity, but these methods have yet to be compared using a single data set.
+10.1111/J.2041-210X.2010.00039.X

@@ -1,0 +1,3 @@
+Optimal Regulation of Invasive Species Long-Range Spread: A General Equilibrium Approach
+Economic activity is implicated in the long-range spread of invasive species, resulting in ecological and economic damages. Current policies that are used to prevent such spread include specific and ad valorem taxes. However, these taxes are often created under ecological and economic uncertainty. To address this concern, this paper develops a general equilibrium model capable of evaluating the efficiency of specific and ad valorem taxes under uncertainty. Results show that specific taxes are more efficient at achieving a social optimum under imperfect information and that a combination of taxes is needed for multiple forms of long-range transmission.
+10.1515/BEJEAP-2014-0087

@@ -1,0 +1,3 @@
+Approximating spatially exclusive invasion processes
+A number of biological processes, such as invasive plant species and cell migration, are composed of two key mechanisms: motility and reproduction. Due to the spatially exclusive interacting behavior of these processes a cellular automata (CA) model is specified to simulate a one-dimensional invasion process. Three (independence, Poisson, and 2D-Markov chain) approximations are considered that attempt to capture the average behavior of the CA. We show that our 2D-Markov chain approximation accurately predicts the state of the CA for a wide range of motility and reproduction rates.
+10.1103/PHYSREVE.89.052709

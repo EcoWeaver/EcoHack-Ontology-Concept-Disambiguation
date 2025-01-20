@@ -1,0 +1,3 @@
+Closing the Gap between Risk Estimation and Decision Making: Efficient Management of Trade-Related Invasive Species Risk
+In this paper we assess multiple alternatives for designing a screening system to make decisions to allow or exclude novel imported goods. The statistical decision problem is to use available information on previous imports to parameterize a predictive model of the key unknown|a proposal's latent status as damaging or benign. We develop the rst side-by-side comparison of two classical approaches| maximum likelihood and Bayesian|against a third, recently developed \maximum utility" (MU) estimation methodology. We demonstrate the implications of the expected payos (benets and
+10.1162/REST_A_00270

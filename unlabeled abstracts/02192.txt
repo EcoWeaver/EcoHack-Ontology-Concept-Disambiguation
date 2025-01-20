@@ -1,0 +1,3 @@
+Ecological chaos in the wake of invasion.
+Irregularities in observed population densities have traditionally been attributed to discretization of the underlying dynamics. We propose an alternative explanation by demonstrating the evolution of spatiotemporal chaos in reaction-diffusion models for predator-prey interactions. The chaos is generated naturally in the wake of invasive waves of predators. We discuss in detail the mechanism by which the chaos is generated. By considering a mathematical caricature of the predator-prey models, we go on to explain the dynamical origin of the irregular behavior and to justify our assertion that the behavior we present is a genuine example of spatiotemporal chaos.
+10.1073/PNAS.92.7.2524

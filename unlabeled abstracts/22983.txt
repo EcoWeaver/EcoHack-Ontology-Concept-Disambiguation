@@ -1,0 +1,3 @@
+A small dasyurid predator (Sminthopsis virginiae) rapidly learns to avoid a toxic invader
+Context: Invasive species are a leading cause of extinctions, yet predicting their ecological impacts poses a formidable challenge for conservation biologists. When native predators are naive to invaders, they may lack appropriate behaviours to deal with the invader. In northern Australia, the invasion of the highly toxic cane toad (Rhinella marina) has caused serious population declines of reptilian and mammalian predators that are ill equipped to deal with toad toxins. Cane toads recently invaded the Kimberley region of Western Australia, where they potentially threaten several species of small dasyurid predators.
+10.1071/WR10206

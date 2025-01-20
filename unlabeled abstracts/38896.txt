@@ -1,0 +1,3 @@
+From Points to Forecasts: Predicting Invasive Species Habitat Suitability in the Near Term
+We used near-term climate scenarios for the continental United States, to model 12 invasive plants species. We created three potential habitat suitability models for each species using maximum entropy modeling: (1) current; (2) 2020; and (3) 2035. Area under the curve values for the models ranged from 0.92 to 0.70, with 10 of the 12 being above 0.83 suggesting strong and predictable species-environment matching. Change in area between the current potential habitat and 2035 ranged from a potential habitat loss of about 217,000 km2, to a potential habitat gain of about 133,000 km2.
+10.3390/D2050738

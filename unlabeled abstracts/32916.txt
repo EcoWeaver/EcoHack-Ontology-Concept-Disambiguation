@@ -1,0 +1,3 @@
+Pathogens and disease defense of invasive ants
+Ant invasions are often harmful to native species communities. Their pathogens and host disease defense mechanisms may be one component of their devastating success. First, they can introduce harmful diseases to their competitors in the introduced range, to which they themselves are tolerant. Second, their supercolonial social structure of huge multi-queen nest networks means that they will harbor a broad pathogen spectrum and high pathogen load while remaining resilient, unlike the smaller, territorial colonies of the native species. Thus, it is likely that invasive ants act as a disease reservoir, promoting their competitive advantage and invasive success.
+10.1016/J.COIS.2019.03.011

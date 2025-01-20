@@ -1,0 +1,3 @@
+A DNA assay for rapid discrimination between beaver species as a tool for alien species management
+The confirmed presence of alien North American beavers in some regions of Eurasia may compete with and hinder the successful recolonisation of the native Eurasian species back to its former range. Distinguishing the two species in the field can be problematic, time consuming and expensive, thereby potentially limiting appropriate conservation actions. Here, a rapid and inexpensive genetic SNP assay is described that can separate the two species from either noninvasively collected samples or samples taken directly from restrained individuals. We applied these new genetic assays to free-living beavers of unknown origin sampled in Scotland.
+10.1007/S10344-014-0803-6

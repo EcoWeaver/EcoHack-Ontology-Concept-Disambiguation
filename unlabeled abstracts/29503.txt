@@ -1,0 +1,3 @@
+Isolation and characterization of microsatellite loci in two non-native hydromedusae in the San Francisco Estuary: Maeotias marginata and Moerisia sp
+We characterized 10 new microsatellite markers in each of two species of hydromedusae, Maeotiasmarginata and Moerisia sp. Genetic diversity was estimated using 20-41 individuals collected from Suisun Marsh within the San Francisco Estuary, CA. Allelic richness ranged from 5-9 in M.marginata and 2-10 in Moerisia sp. with average expected heterozygosities of 0.71 and 0.57 respectively. One locus in M.marginata and two in Moerisia sp. deviated from Hardy-Weinberg equilibrium expectations, likely due to null alleles.
+10.1007/S12686-009-9050-7

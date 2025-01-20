@@ -1,0 +1,3 @@
+Effects of temperature on the feeding and growth of the larvae of the invasive ctenophoreMnemiopsis leidyi
+Carbon-specific prey clearance and ingestion rates of 1.5-mm tentaculate larvae of the ctenophore Mnemiopsis leidyi increased linearly between 6 and 25 degrees C but declined between 25 and 30 degrees C. Both absolute (length) and carbon-specific growth rate increased linearly with increasing temperature. The latter was 0.87 d(-1) at 25 degrees C. Extremely low or negative growth rates observed at 6 and 30 degrees C help define the thermal limits to population growth of this successful biological invader.
+10.1093/PLANKT/FBV039

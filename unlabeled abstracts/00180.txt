@@ -1,0 +1,3 @@
+Multiple Transatlantic Introductions of the Western Corn Rootworm
+The invasion of Europe by the western corn rootworm, North America's most destructive corn pest, is ongoing and represents a serious threat to European agriculture. Because this pest was initially introduced in Central Europe, it was believed that subsequent outbreaks in Western Europe originated from this area. Using model-based Bayesian analyses of the genetic variability of the western corn rootworm, we demonstrate that this belief is false: There have been at least three independent introductions from North America during the past two decades. This result raises questions about changing circumstances that have enabled a sudden burst of transatlantic introductions.
+10.1126/SCIENCE.1115871

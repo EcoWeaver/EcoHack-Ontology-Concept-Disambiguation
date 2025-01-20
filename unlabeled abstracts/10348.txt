@@ -1,0 +1,3 @@
+Erratum to: Density-dependent effects of larval dispersal mediated by host plant quality on populations of an invasive insect.
+There was a coding error in the original paper resulting in incorrect model parameter estimates and in some cases incorrect model conclusions. The error was the specification of logistic models (using the glm and glmer functions) in R as cbind (survived, total) instead of cbind (survived, dead). The differences between the originally published and correct models of those affected are detailed.
+10.1007/S00442-017-3947-8

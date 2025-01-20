@@ -1,0 +1,3 @@
+When is a native species invasive? Incursion of a novel predatory marsupial detected using molecular and historical data
+Range expansions facilitated by humans or in response to local biotic or abiotic stressors provide the opportunity for species to occupy novel environments. Classifying the status of newly expanded populations can be difficult, particularly when the timing and nature of the range expansion are unclear. Should native species in new habitats be considered invasive pests or actively conserved? Here, we present an analytical framework applied to an Australian marsupial, the sugar glider (Petaurus breviceps), a species that preys upon on an endangered parrot in Tasmania, and whose provenance was uncertain.
+10.1111/DDI.12717

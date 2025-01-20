@@ -1,0 +1,3 @@
+Complete mitochondrial DNA sequence of the alien hornet Vespa velutina (Insecta: Hymenoptera) invading Kyushu Island, Japan
+We analyzed the complete mitochondrial genome of the invasive Asian hornet Vespa velutina from Kyushu Island, Japan. The mitochondrial genome of V. velutina was identified as a circular molecule of 16,388 bp. We predicted that the genome contains 13 protein-coding genes (PCGs), 22 tRNA genes, and 2 rRNA genes, along with one A + T-rich control region. The average AT content is 81.68%. Molecular phylogenetic analysis using the 13 mitochondrial PCGs from 11 closely related taxa of Vespidae indicated that the V. velutina invading the Japanese Islands of Kyushu and Tsushima have a common origin.
+10.1080/23802359.2018.1437823
