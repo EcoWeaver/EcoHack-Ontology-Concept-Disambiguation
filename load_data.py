@@ -28,3 +28,17 @@ def load_concepts():
             index = int(filename[:-5])
             result[index] = concepts
     return result
+
+def load_abstract_definitions():
+    result = {}
+    for filename in tqdm(os.listdir("generated_definitions")):
+        with open(f"generated_definitions/{filename}", "r") as f:
+            definitions = json.load(f)
+
+            index = int(filename[:-5])
+            result[index] = definitions
+    return result
+
+def load_ontology_data():
+    with open("ontology_definition_dataset.json", "r") as f:
+        return json.load(f)
