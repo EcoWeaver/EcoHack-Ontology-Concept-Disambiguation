@@ -10,7 +10,13 @@ def load_abstracts():
             title, abstract, doi = text.split("\n")
 
             index = int(filename[:-4])
-            result[index] = {"title": title, "abstract": abstract, "index": index}
+
+            if title[-1].isalpha():
+                new_title = title + "."
+            else:
+                new_title = title
+            text = f"{new_title} {abstract}"
+            result[index] = {"title": title, "abstract": abstract, "index": index, "prediction_text": text}
     return result
 
 def load_concepts():

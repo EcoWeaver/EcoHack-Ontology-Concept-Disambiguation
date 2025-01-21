@@ -57,7 +57,7 @@ def load_model():
     pipe = pipeline("text-generation", model=model_name, device_map="auto", torch_dtype=torch.bfloat16)
     return pipe
 
-def generate_concepts():
+def generate_concepts(start_idx, end_idx):
     abstracts = load_abstracts()
 
     pipe =  load_model()
@@ -66,6 +66,9 @@ def generate_concepts():
     bar = tqdm(total=len(abstracts), initial=idx, desc="Generating concepts...", smoothing=0.5)
     for paper_idx in abstracts:
         idx += 1
+        bar.update(1)
+        if idx < start_idx or idx > end_idx:
+            continue
 
         if os.path.exists(f"detected_concepts/{paper_idx}.json"):
             continue
@@ -83,9 +86,7 @@ def generate_concepts():
 
         with open(f"detected_concepts/{paper_idx}.json", "w") as f:
             json.dump(continuations, f)
-        bar.update(1)
-
 
 
 if __name__ == '__main__':
-    generate_concepts()
+    generate_concepts(0, 10000)
