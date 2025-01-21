@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paper Abstracts and Ontology Concepts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+        .container {
+            flex: 1;
+            padding: 20px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start; /* Align content to the left */
+        }
+        .left-container {
+            border-right: 2px solid #ccc;
+        }
+        textarea, button {
+            width: calc(100% - 40px); /* Equal margins (20px each side) */
+            max-width: 600px; /* Optional: prevent overly wide fields */
+            margin: 10px 20px; /* Consistent spacing: 10px top/bottom, 20px left/right */
+            padding: 10px;
+            font-size: 16px;
+        }
+        textarea {
+            height: 150px; /* Adjust for abstracts */
+            resize: vertical; /* Allow user resizing */
+        }
+        button {
+            height: auto;
+            cursor: pointer;
+        }
+        h1, h2 {
+            margin: 0 0 10px 0;
+        }
+        ul {
+            padding-left: 20px;
+            margin-top: 0;
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 5px 5px 0 0;
+            margin-right: 5px;
+        }
+        .tab.active {
+            background-color: #e0e0e0;
+            font-weight: bold;
+        }
+        .tab-content {
+            width: 100%;
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+        }
+        .checkbox-label input {
+            margin-right: 10px;
+        }
+        .hover-text {
+            display: none;
+            background-color: #f9f9f9;
+            color: #333;
+            border: 1px solid #ccc;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            font-size: 12px;
+            border-radius: 4px;
+            white-space: nowrap; /* Prevent wrapping of text */
+            max-width: 150px; /* Limit tooltip width */
+        }
+        li:hover .hover-text, .parent-hover:hover .hover-text {
+            display: block;
+        }
+        li {
+            position: relative;
+            margin-bottom: 5px;
+        }
+        .parent-hover {
+            position: relative;
+            margin-bottom: 5px;
+        }
+        .search-bar {
+            width: calc(100% - 40px); /* Allow margin from the right */
+            margin-right: 20px; /* Add space to the right of the search bar */
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        .search-button {
+            margin-top: 10px;
+            padding: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        .search-button:hover {
+            background-color: #45a049;
+        }
+        .search-results {
+            margin-top: 20px;
+            display: none;
+        }
+        .search-results.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Left Container: Abstract Submission -->
+    <div class="container left-container">
+        <h1>Submit Paper Abstracts</h1>
+        <textarea id="textInput" placeholder="Enter paper abstract here"></textarea>
+        <button onclick="sendText()">Send Abstract</button>
+        <textarea id="responseField" placeholder="Response will appear here" readonly></textarea>
+    </div>
+
+    <!-- Right Container: Tabs and Content -->
+    <div class="container">
+        <!-- Tab Navigation -->
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('ontology')">Ontology Concepts</div>
+            <div class="tab" onclick="switchTab('search')">Concept Search</div>
+        </div>
+
+        <!-- Tab Content -->
+        <div id="ontology" class="tab-content active">
+            <h2>Ontology Concepts</h2>
+            <button onclick="displayParents()">Display Concept Parents</button>
+            <ul id="ontologyList">
+                <!-- Bullet points with checkboxes will be dynamically added here -->
+            </ul>
+        </div>
+
+        <div id="search" class="tab-content">
+            <h2>Concept Search</h2>
+            <input type="text" id="searchBar" class="search-bar" placeholder="Search for concepts..." />
+            <button class="search-button" onclick="searchConcepts()">Search...</button>
+            <ul id="checkedConcepts">
+                <!-- Checked concepts will be displayed here -->
+            </ul>
+
+            <!-- Search Results -->
+            <div id="searchResults" class="search-results">
+                <h3>Search Results</h3>
+                <h4 id="searchTermsSubheading"></h4>
+                <div id="searchResultsContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let parentsDisplayed = false;
+
+        async function sendText() {
+            const input = document.getElementById('textInput').value;
+            try {
+                const response = await fetch('http://127.0.0.1:5000/send-text', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text: input }),
+                });
+                const data = await response.json();
+                document.getElementById('responseField').textContent = data.message;
+
+                // Create a new bullet point for each word in the abstract
+                const words = input.split(/\s+/); // Split the text into words based on spaces
+                const ontologyList = document.getElementById('ontologyList');
+                ontologyList.innerHTML = ''; // Clear previous content
+                words.forEach((word, index) => {
+                    const listItem = document.createElement('li');
+                    const label = document.createElement('label');
+                    label.classList.add('checkbox-label');
+                    label.innerHTML = `<input type="checkbox" onchange="updateSearchList()"> ${word}`;
+                    const hoverText = document.createElement('span');
+                    hoverText.classList.add('hover-text');
+                    hoverText.textContent = `Definition of ${word}`;
+                    listItem.appendChild(label);
+                    listItem.appendChild(hoverText);
+                    ontologyList.appendChild(listItem);
+                });
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('responseField').textContent = 'Failed to send text!';
+            }
+        }
+
+        function displayParents() {
+            const listItems = document.querySelectorAll('#ontologyList li');
+            if (!parentsDisplayed) {
+                listItems.forEach((item, index) => {
+                    const parentText = document.createElement('p');
+                    parentText.classList.add('parent-hover');
+                    parentText.textContent = `Parent of ${index + 1}`;
+                    const hoverTextParent = document.createElement('span');
+                    hoverTextParent.classList.add('hover-text');
+                    hoverTextParent.textContent = `Definition of Parent ${index + 1}`;
+                    parentText.appendChild(hoverTextParent);
+                    item.parentNode.insertBefore(parentText, item);
+                });
+                parentsDisplayed = true; // Set flag to indicate text is displayed
+            } else {
+                const parentTexts = document.querySelectorAll('#ontologyList p');
+                parentTexts.forEach(parentText => parentText.remove()); // Remove "Parent of {number}"
+                parentsDisplayed = false; // Set flag to indicate text is removed
+            }
+        }
+
+        function updateSearchList() {
+            const checkedConcepts = document.querySelectorAll('#ontologyList input:checked');
+            const searchList = document.getElementById('checkedConcepts');
+            searchList.innerHTML = ''; // Clear previous search results
+
+            // Collect checked concepts into a string separated by commas
+            const conceptsArray = [];
+            checkedConcepts.forEach(checkbox => {
+                conceptsArray.push(checkbox.parentElement.textContent.trim());
+            });
+
+            // Update the search bar with the comma-separated values
+            document.getElementById('searchBar').value = conceptsArray.join(', ');
+        }
+
+        function searchConcepts() {
+            const searchTerms = document.getElementById('searchBar').value;
+
+            // Send the search terms as a POST request to the backend
+            fetch('http://127.0.0.1:5000/search-concepts', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ search_terms: searchTerms }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display the search results
+                document.getElementById('searchTermsSubheading').textContent = `Search terms: ${searchTerms}`;
+                const resultsContainer = document.getElementById('searchResultsContent');
+                resultsContainer.innerHTML = ''; // Clear previous results
+                data.results.forEach(result => {
+                    const resultItem = document.createElement('div');
+                    resultItem.textContent = result; // Display each search result
+                    resultsContainer.appendChild(resultItem);
+                });
+
+                // Show search results section
+                document.getElementById('searchResults').classList.add('active');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Failed to search concepts!');
+            });
+        }
+
+        function switchTab(tabName) {
+            // Hide all tab content
+            const tabContents = document.querySelectorAll('.tab-content');
+            tabContents.forEach(content => content.classList.remove('active'));
+
+            // Remove 'active' class from all tabs
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => tab.classList.remove('active'));
+
+            // Show the selected tab content and add 'active' class to the selected tab
+            document.getElementById(tabName).classList.add('active');
+            const activeTab = document.querySelector(`.tab[onclick="switchTab('${tabName}')"]`);
+            activeTab.classList.add('active');
+        }
+    </script>
+</body>
+</html>
