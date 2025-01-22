@@ -155,5 +155,5 @@ def train():
             torch.save(model.state_dict(), "models/concept_identifier.pkl")
             val_score = new_val_score
 
-
-train()
+if __name__ == "__main__":
+    train()

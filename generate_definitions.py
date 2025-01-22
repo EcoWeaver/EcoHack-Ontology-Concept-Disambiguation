@@ -29,7 +29,7 @@ def generate_definitions(text, pipe, concepts):
         for concept in concepts:
             messages = [{"role": "user", "content": create_prompt(text, concept)}]
 
-            response = pipe(messages, num_return_sequences=3, temperature=1.2, pad_token_id=pipe.tokenizer.eos_token_id)
+            response = pipe(messages, num_return_sequences=3, temperature=1.2, pad_token_id=pipe.llama_tokenizer.eos_token_id)
 
             definitions = []
             for idx in range(3):

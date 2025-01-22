@@ -1,0 +1,25 @@
+                                                                                     I have this code for training the embeddings of tokens using an existing embedding model that already created embeddings for the concepts.
+
+I now also need a evaluation method to know when to stop training. I would like to have the following:
+
+Extract a list of different concepts from the "concept_embeddings" dict. Make sure that they are really distinct. I previously used the following method to "normalize" the concept name, so that no matching concepts are treated as different (for example due to different word endings):
+
+from nltk.stem import PorterStemmer
+
+ps = PorterStemmer()
+
+    def normalize_concept_name(concept):
+
+        concept = concept.replace("-", " ")
+
+        words = concept.split(" ")
+
+        stemmed = [ps.stem(w) for w in words]
+
+        return " ".join(stemmed)
+
+After this, we should have a list of, lets say 500, random concepts with embeddings.
+
+Then, create a new validation set of abstracts and concepts. Currently, I only create a single dataset for training, but please change that to be a "train_dataset" and "train_loader", as well as a "validation_dataset" and "validation_loader". The validation set shall have 40 abstracts in it, as well as the corresponding embeddings. Please note that not every abstract has embeddings, so you will need to use the keys that are acutally present in the embeddings dict as reference for which samples are actually available.
+
+Then, the evaluation method shall work as follows: For each validation sample, predict the embeddings. Then, for each entry where the mask is one, check which embedding from either the correct ground truth or the 500 incorrect ones is the closest to the predicted embedding. Make sure that you again check that the same concept (in its normalized form) is not present in the negative samples. Then, please calcualte two scores for each sample. One is the precision (i.e., how many of the embeddings correctly were closest to the ground truth embedding). Also, compute the "position" that the ground truth embedding is in the ranking (i.e., it is the 5th closest), and calculate the average for the given sample. Then, in the end, print the average of these scores over all samples and return them.

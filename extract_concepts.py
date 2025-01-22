@@ -41,7 +41,7 @@ def generate_continuations(text, pipe):
     with torch.no_grad():
         messages = [{"role": "system", "content": persona}, {"role": "user", "content": create_prompt(text)}]
 
-        response = pipe(messages, num_return_sequences=1, temperature=1.2, pad_token_id=pipe.tokenizer.eos_token_id)
+        response = pipe(messages, num_return_sequences=1, temperature=1.2, pad_token_id=pipe.llama_tokenizer.eos_token_id)
         response = response[0]["generated_text"][2]["content"]
 
         start_idx = response.find("CONCEPTS:") + len("CONCEPTS:")
