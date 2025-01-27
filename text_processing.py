@@ -6,7 +6,7 @@ from transformers import AutoModel, AutoTokenizer, AutoModelForCausalLM
 import torch
 import concept_identifier
 import blingfire
-from load_data import load_ontology_data
+from load_data import load_ontology_data, load_abstracts
 from tqdm import tqdm
 import abstract_concept_embedder
 
@@ -23,6 +23,8 @@ concept_identifier_model.eval()
 definition_embedding_model = AutoModel.from_pretrained("microsoft/deberta-base").to("cuda")
 definition_embedding_model.load_state_dict(torch.load("models/definition_embedding_model.pkl"))
 definition_embedding_model.eval()
+
+all_abstracts = load_abstracts()
 
 if use_reranker:
     from concept_reranker_LLM import llama_tokenizer, target_ids, format_input
@@ -146,7 +148,7 @@ def check_definition_concept_match(ontology_candidates, concept, sentence):
 
             if probabilities[target_ids[1]].item() > 0.6:
                 results[candidate] = probabilities[target_ids[1]].item()
-    ranking = [x[0] for x in sorted(results.items(), key=lambda x: x[1])][::-1][:5]
+    ranking = [(x[0], f"{x[1]:.2f}") for x in sorted(results.items(), key=lambda x: x[1])][::-1][:5]
     return ranking
 
 def match_spans(span_1, span_2):
@@ -167,15 +169,68 @@ def complete_abstract_ontology_matching(abstract):
         else:
             ranking = ontology_candidates[:5]
         final_candidates.append([candidate[0], candidate[1], candidate_string, ranking])
-    for x in final_candidates:
-        print(x)
-    quit()
+    return final_candidates, sentence_joined_text
 
 
+def load_ontology_definition(concept):
+    if len(ontology_data[concept]["generated_definitions"]) > 0:
+        return ontology_data[concept]["generated_definitions"][0]
+    else:
+        return "No definition available."
 
+def load_paper_embeddings():
+    cache_path = "models/paper_embeddings.pkl"
+    try:
+        paper_embeddings = torch.load(cache_path)
+        print(f"Loaded cached paper embeddings from {cache_path}")
+    except FileNotFoundError:
+        print("No cached paper embeddings found. Computing embeddings...")
 
-abstract = '''Biological invasions have been unambiguously shown to be one of the major global causes of biodiversity loss. Despite the magnitude of this threat and recent scientific advances, this field remains a regular target of criticism - from outright deniers of the threat to scientists questioning the utility of the discipline. This unique situation, combining internal strife and an unaware society, greatly hinders the progress of invasion biology. It is crucial to identify the specificities of this discipline that lead to such difficulties. We outline here 24 specificities and problems of this discipline and categorize them into four groups: understanding, alerting, supporting, and implementing the issues associated with invasive alien species, and we offer solutions to tackle these problems and push the field forward. Invasion biology is a relatively new field, so there are ongoing debates about foundational issues regarding terminology and assessment of the causes and consequences of invasive species. These debates largely reflect differing views about the extent to which invasion biologists should advocate on behalf of native species. We surveyed reviewers of the journal Biological Invasions to obtain a better sense of how invasion biologists evaluate several foundational issues. We received 422 replies, which represented a very good response rate for an online survey of 42.5% of those contacted. Responses to several debates in the field were distributed bimodally, but respondents consistently indicated that contemporary biological invasions are unprecedented. Even still, this was not seen as justification for exaggerated language (hyperbole). In contrast to prevalent claims in the literature, only 27.3% of respondents ranked invasive species as the first or second greatest threat to biodiversity. The responses also highlighted the interaction of invasive species with other threats and the role of human activity in their spread. Finally, the respondents agreed that they need to be both more objective and better at communicating their results so that those results can be effectively integrated into management. There are many hypotheses describing the interactions involved in biological invasions, but it is largely unknown whether they are backed up by empirical evidence. This book fills that gap by developing a tool for assessing research hypotheses and applying it to twelve invasion hypotheses, using the hierarchy-of-hypotheses (HoH) approach, and mapping the connections between theory and evidence. In Part 1, an overview chapter of invasion biology is followed by an introduction to the HoH approach and short chapters by science theorists and philosophers who comment on the approach. Part 2 outlines the invasion hypotheses and their interrelationships. These include biotic resistance and island susceptibility hypotheses, disturbance hypothesis, invasional meltdown hypothesis, enemy release hypothesis, evolution of increased competitive ability and shifting defence hypotheses, tens rule, phenotypic plasticity hypothesis, Darwin's naturalization and limiting similarity hypotheses and the propagule pressure hypothesis. Part 3 provides a synthesis and suggests future directions for invasion research.'''
-complete_abstract_ontology_matching(abstract)
-#embedding = embed_definitions("A large black animal.")
-load_ontology_embeddings()
-print()
+        paper_embeddings = {}
+        with torch.no_grad():
+            for id in tqdm(all_abstracts.keys(), desc="Computing abstract embeddings"):
+                prediction_text = all_abstracts[id]["prediction_text"]
+                _, concepts, _ = detect_concept_candidates_and_predict_embeddings(prediction_text)
+                if len(concepts) > 0:
+                    concept_embeddings = torch.tensor(np.stack([x[2] for x in concepts]))
+                    paper_embeddings[id] = concept_embeddings
+
+        torch.save(paper_embeddings, cache_path)
+        print(f"Saved paper embeddings to {cache_path}")
+
+    return paper_embeddings
+
+def search_related_abstracts(abstract):
+    paper_embeddings = load_paper_embeddings()
+    _, concepts, _ = detect_concept_candidates_and_predict_embeddings(abstract)
+    with torch.no_grad():
+        if len(concepts) > 0:
+            concept_embeddings = torch.tensor(np.stack([x[2] for x in concepts]))
+            paper_scores = []
+            paper_ids = []
+            for idx in tqdm(paper_embeddings, desc="Comparing embeddings"):
+                concept_distances = torch.cdist(concept_embeddings, paper_embeddings[idx])
+                avg_min_distance = torch.min(concept_distances, dim=-1).values.mean()
+                paper_scores.append(avg_min_distance)
+                paper_ids.append(idx)
+
+            best_matches = [paper_ids[x] for x in np.argsort(np.array(paper_scores))[:10]]
+            match_abstracts = [all_abstracts[x]["prediction_text"] for x in best_matches]
+            result = []
+            for abstract_id in best_matches:
+                text, concepts, _ = detect_concept_candidates_and_predict_embeddings(all_abstracts[abstract_id]["prediction_text"])
+                new_concept_embeddings = torch.tensor(np.stack([x[2] for x in concepts]))
+                concept_distances = torch.cdist(concept_embeddings, new_concept_embeddings)
+                important_concepts = list(set(torch.argmin(concept_distances, dim=-1).tolist()))
+                important_concepts = [text[concepts[x][0]:concepts[x][1]] for x in important_concepts]
+                result.append([text, important_concepts])
+            return result
+        else:
+            return []
+#abstract = '''Biological invasions have been unambiguously shown to be one of the major global causes of biodiversity loss. Despite the magnitude of this threat and recent scientific advances, this field remains a regular target of criticism - from outright deniers of the threat to scientists questioning the utility of the discipline. This unique situation, combining internal strife and an unaware society, greatly hinders the progress of invasion biology. It is crucial to identify the specificities of this discipline that lead to such difficulties. We outline here 24 specificities and problems of this discipline and categorize them into four groups: understanding, alerting, supporting, and implementing the issues associated with invasive alien species, and we offer solutions to tackle these problems and push the field forward. Invasion biology is a relatively new field, so there are ongoing debates about foundational issues regarding terminology and assessment of the causes and consequences of invasive species. These debates largely reflect differing views about the extent to which invasion biologists should advocate on behalf of native species. We surveyed reviewers of the journal Biological Invasions to obtain a better sense of how invasion biologists evaluate several foundational issues. We received 422 replies, which represented a very good response rate for an online survey of 42.5% of those contacted. Responses to several debates in the field were distributed bimodally, but respondents consistently indicated that contemporary biological invasions are unprecedented. Even still, this was not seen as justification for exaggerated language (hyperbole). In contrast to prevalent claims in the literature, only 27.3% of respondents ranked invasive species as the first or second greatest threat to biodiversity. The responses also highlighted the interaction of invasive species with other threats and the role of human activity in their spread. Finally, the respondents agreed that they need to be both more objective and better at communicating their results so that those results can be effectively integrated into management. There are many hypotheses describing the interactions involved in biological invasions, but it is largely unknown whether they are backed up by empirical evidence. This book fills that gap by developing a tool for assessing research hypotheses and applying it to twelve invasion hypotheses, using the hierarchy-of-hypotheses (HoH) approach, and mapping the connections between theory and evidence. In Part 1, an overview chapter of invasion biology is followed by an introduction to the HoH approach and short chapters by science theorists and philosophers who comment on the approach. Part 2 outlines the invasion hypotheses and their interrelationships. These include biotic resistance and island susceptibility hypotheses, disturbance hypothesis, invasional meltdown hypothesis, enemy release hypothesis, evolution of increased competitive ability and shifting defence hypotheses, tens rule, phenotypic plasticity hypothesis, Darwin's naturalization and limiting similarity hypotheses and the propagule pressure hypothesis. Part 3 provides a synthesis and suggests future directions for invasion research.'''
+#complete_abstract_ontology_matching(abstract)
+##embedding = embed_definitions("A large black animal.")
+#load_ontology_embeddings()
+#print()
+#abstract_embeddings = load_paper_embeddings()
+#print()
