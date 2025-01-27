@@ -4,7 +4,7 @@ Trained model checkpoints are not included due to their large size. Please messa
 The scientific abstract dataset is contained in "abstracts.zip", which is password protected since we can not share the dataset publicly. If you wish to use the dataset, please send us a request to receive the password. Afterwards, place the contents from "abstracts.zip" in a folder "unlabeled abstracts".
 
 
-Technical details:
+## Technical details:
 
 As the basis for our experiments, we use a subset of 6000 paper titles and abstracts that address invasion biology from a dataset collected using a Wikidata query (https://doi.org/10.5281/zenodo.12518037). We then proceeded to extract concepts from the abstracts by prompting an LLM (Llama-3-8B-Instruct) to identify single-word or multi-word concepts that potentially match concepts contained in ontologies like the ENVO (concept_identifier.py). Then, we again used the same model to generate five definitions for each extracted term (generate_definitions.py), with the corresponding scientific abstract being provided as additional context to ensure that the model generates a definition that explains the actual meaning of the concept as used in the abstract.
 As a second part of our dataset, we used the INBIO ontology and the ENVO ontology, which contain the concepts that we want to link to the concepts that occur in the scientific texts. For these concepts from the ontologies, we created five additional definitions using the same LLM. We again ensured that the definitions match the exact meaning of the concept from the ontology by providing the definition for that term that is provided by the ontology as context to the LLM.
