@@ -1,6 +1,8 @@
 # EcoHack-Ontology-Concept-Disambiguation
 
 Trained model checkpoints are not included due to their large size. Please message us if you wish to have access to them.
+The scientific abstract dataset is contained in "abstracts.zip", which is password protected since we can not share the dataset publicly. If you wish to use the dataset, please send us a request to receive the password. Afterwards, place the contents from "abstracts.zip" in a folder "unlabeled abstracts".
+
 
 Technical details:
 
