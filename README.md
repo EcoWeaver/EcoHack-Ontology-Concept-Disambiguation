@@ -1,5 +1,7 @@
 # EcoHack-Ontology-Concept-Disambiguation
 
+Trained model checkpoints are not included due to their large size. Please message us if you wish to have access to them.
+
 Technical details:
 
 As the basis for our experiments, we use a subset of 6000 paper titles and abstracts that address invasion biology from a dataset collected using a Wikidata query (https://doi.org/10.5281/zenodo.12518037). We then proceeded to extract concepts from the abstracts by prompting an LLM (Llama-3-8B-Instruct) to identify single-word or multi-word concepts that potentially match concepts contained in ontologies like the ENVO (concept_identifier.py). Then, we again used the same model to generate five definitions for each extracted term (generate_definitions.py), with the corresponding scientific abstract being provided as additional context to ensure that the model generates a definition that explains the actual meaning of the concept as used in the abstract.
